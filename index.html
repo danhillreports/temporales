@@ -4,23 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
   body {
-    font-family: Arial;
-  }
-
-  #panel {
-    width: 100%;
-    height: 200px;
-  }
-
-  .img-text {
-    position: absolute;
-    z-index: 999;
-  }
-
-  .photo-container {
-    width: 100%;
-    height: auto;
-    overflow: hidden;
+    font-family: Arial, Helvetica;
+    margin: 0px;
   }
 
   h1 {
@@ -30,19 +15,70 @@
   section {
     clear: both;
   }
+
+  li {
+    border-right: 1px solid black;
+    display: block;
+    float: left;
+    text-decoration: none;
+    padding-right: 32px;
+    padding-left: 32px;
+    margin-bottom: 30px;
+  }
+
+  li a {
+    text-decoration: none;
+    font-family: Georgia;
+    font-style: italic;
+  }
+
+  #panel {
+    width: 100%;
+    height: 200px;
+  }
+
+  .feature-text {
+    font-family: Georgia;
+  }
+
+  .img-text {
+    position: absolute;
+    z-index: 999;
+  }
+
+  .nav {
+    padding-left: 45px;
+    padding-right: 15px;
+  }
+
+  .photo-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  }
+
+  .poppin {
+    background-color: #ececec;
+    padding:0px 5px 5px 10px;
+  }
   </style>
 
 </head>
 
 <body>
 
-  <div id="panel">
-    <div class="img-text" style="top:80px;left:50px;"><a href="#visas">Visas</a></div>
-    <div class="img-text" style="top:80px;left:130px;"><a href="#accidentes">Accidentes</a></div>
-    <div class="img-text" style="top:80px;left:250px;"><a href="#pagar">Pagamiento</a></div>
+  <div id="panel" class="container-fluid">
     <img class="photo-container" src='base copy grande.jpg'/>
     <div id="panel" style="height:30px;background-color:black;color:white;margin:-5px 0px;text-align:center;">
       TRABAJADORES DESACHABLES
+    </div>
+    <div class="nav">
+      <ul>
+        <li><a href="#visas">H2A | H2B</a></li>
+        <li><a href="#accidentes">Accidentes</a></li>
+        <li><a href="#pagar">Robo de Salario</a></li>
+        <li><a href="#fin">Fin</a></li>
+      </ul>
     </div>
   </div>
 
@@ -50,31 +86,29 @@
     <div class="container-fluid">
       <a name="visas"></a>
 
-      <div class="row col-xs-12">
+      <div class="row col-xs-12 poppin">
+        <hr>
         <h1>H2A|H2B</h1>
+        <p class="feature-text">
+          Cada a&ntilde;o, miles de trabajadoras y trabajadores mexicanos viajan a los Estados Unidos a trav&eacute;s del sistema de visas H-2A (para emplearse en el sector agr&iacute;cola) y H-2B (para emplearse en el sector servicios: construcci&oacute;n, trabajo del hogar y servicios de limpieza).
+        </p>
+        <p class="feature-text">
+          La ausencia de un acuerdo bilateral entre el gobierno de Estados Unidos y el de M&eacute;xico ha ocasionado que los derechos de los trabajadores sean vulnerados y se produzcan graves violaciones a sus derechos humanos.
+        </p>
       </div>
 
-      <div class="row col-xs-12">
+      <div class="row col-xs-12 poppin">
         <img src="img/pro-s.png" class="photo-container"/>
-        <p>
+        <p class="feature-text">
           La falta de regulaci&oacute;n de las agencias reclutadoras y de contrataci&oacute;n de migrantes para empleos temporales en Estados Unidos (EU) por parte del gobierno mexicano, propicia la violaci&oacute;n a los derechos humanos y laborales de las trabajadoras mexicanas migrantes. Fraude, amenazas, extorsi&oacute;n, discriminaci&oacute;n, trata de personas, acoso y hostigamiento sexual son algunos de los riesgos a los que se enfrentan.
         </p>
-        <p>
+        <p class="feature-text">
           En M&eacute;xico no existe un seguimiento de &eacute;ste proceso. Conoce a los reclutadores que operan de manera ilegal y que han sido identificados por la Coalici&oacute;n de Trabajadoras y Trabajadores Temporales Sinaloenses.
         </p>
       </div>
     </div>
   </section>
-
-  <div style="position:absolute;top:320px;left:400px;width:420px;color:white;font-family:Arial;font-size:0.9em;">
-    <p>
-      Cada a&ntilde;o, miles de trabajadoras y trabajadores mexicanos viajan a los Estados Unidos a trav&eacute;s del sistema de visas H-2A (para emplearse en el sector agr&iacute;cola) y H-2B (para emplearse en el sector servicios: construcci&oacute;n, trabajo del hogar y servicios de limpieza).
-    </p>
-    <p>
-      La ausencia de un acuerdo bilateral entre el gobierno de Estados Unidos y el de M&eacute;xico ha ocasionado que los derechos de los trabajadores sean vulnerados y se produzcan graves violaciones a sus derechos humanos.
-    </p>
-  </div>
-
+<hr>
   <section>
     <div class="container-fluid">
       <a name="accidentes"></a>
@@ -89,7 +123,7 @@
 
     </div>
   </section>
-
+<hr>
   <section>
     <div class="container-fluid">
       <a name="pagar"></a>
