@@ -35,16 +35,6 @@
     font-style: italic;
   }
 
-  #panel {
-    background-color:black;
-    color:white;
-    font-size:1.3em;
-    height:300px;
-    height:60px;
-    margin:-45px 0px 0px 0px;
-    text-align:center;
-    width:100%;
-  }
   .feature-text {
     font-family: Georgia;
   }
@@ -57,12 +47,25 @@
   .nav {
     background-color: black;
     font-size: 0.9em;
-    padding-left: 45px;
-    padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     width: 670px;
+  }
+
+  .panel {
+    background-color:black;
+    color:white;
+    font-size:1.3em;
+    height:300px;
+    height:60px;
+    margin:-45px 0px 0px 0px;
+    text-align:center;
+    width:100%;
+  }
+
+  .panel h1 {
+    text-shadow: #eee 2px 2px 3px;
   }
 
   .table-centered {
@@ -91,11 +94,16 @@
   }
 
   @media all and (max-width: 950px) {
-    #panel{font-size: 1.2em;}
+    .panel{font-size: 1.2em;}
   }
   @media all and (max-width: 800px) {
-    #panel{height:100px;}
-    .nav{font-size: 0.5em; width: 450px;}
+    .panel{height:100px;}
+    .nav{font-size: 0.7em; width: 450px;}
+    li{padding:0px 6px;}
+  }
+  @media all and (max-width: 430px) {
+    .nav{font-size:0.5em;}
+    .panel{font-size:1.1em;}
   }
   </style>
 
@@ -103,10 +111,10 @@
 
 <body>
 
-  <div id="panel" class="container-fluid">
+  <div class="panel" class="container-fluid">
     <img class="photo-container" src='img/base.jpg'/>
-    <div id="panel">
-      <h1 >TRABAJADORES DESACHABLES</h1>
+    <div class="panel">
+      <h1>TRABAJADORES DESACHABLES</h1>
     </div>
     <div class="nav">
       <ul>
