@@ -9,6 +9,9 @@
   }
 
   h1 {
+    font-size: 2em;
+    font-family: Georgia;
+    text-shadow: rgb(0, 0, 0) 1px 1px 2px;
     text-align: center;
   }
 
@@ -21,9 +24,9 @@
     display: block;
     float: left;
     text-decoration: none;
-    padding-right: 32px;
-    padding-left: 32px;
-    margin-bottom: 30px;
+    padding-right: 16px;
+    padding-left: 16px;
+    margin-bottom: 15px;
   }
 
   li a {
@@ -33,10 +36,15 @@
   }
 
   #panel {
-    width: 100%;
-    height: 200px;
+    background-color:black;
+    color:white;
+    font-size:1.3em;
+    height:300px;
+    height:60px;
+    margin:-45px 0px 0px 0px;
+    text-align:center;
+    width:100%;
   }
-
   .feature-text {
     font-family: Georgia;
   }
@@ -47,8 +55,20 @@
   }
 
   .nav {
+    background-color: black;
+    font-size: 0.9em;
     padding-left: 45px;
     padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 670px;
+  }
+
+  .table-centered {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
   }
 
   .photo-container {
@@ -61,6 +81,22 @@
     background-color: #ececec;
     padding:0px 5px 5px 10px;
   }
+
+  .quote {
+    font-family: Georgia;
+    font-style: italic;
+    background-color: white;
+    padding: 0px 5%;
+    font-size: 1.5em;
+  }
+
+  @media all and (max-width: 950px) {
+    #panel{font-size: 1.2em;}
+  }
+  @media all and (max-width: 800px) {
+    #panel{height:100px;}
+    .nav{font-size: 0.5em; width: 450px;}
+  }
   </style>
 
 </head>
@@ -68,16 +104,16 @@
 <body>
 
   <div id="panel" class="container-fluid">
-    <img class="photo-container" src='base copy grande.jpg'/>
-    <div id="panel" style="height:30px;background-color:black;color:white;margin:-5px 0px;text-align:center;">
-      TRABAJADORES DESACHABLES
+    <img class="photo-container" src='img/base.jpg'/>
+    <div id="panel">
+      <h1 >TRABAJADORES DESACHABLES</h1>
     </div>
     <div class="nav">
       <ul>
-        <li><a href="#visas">H2A | H2B</a></li>
+        <li><a href="#visas">Visas temporales</a></li>
         <li><a href="#accidentes">Accidentes</a></li>
         <li><a href="#pagar">Robo de Salario</a></li>
-        <li><a href="#fin">Fin</a></li>
+        <li><a href="#fin">M&aacute;s recursos</a></li>
       </ul>
     </div>
   </div>
@@ -86,21 +122,66 @@
     <div class="container-fluid">
       <a name="visas"></a>
 
-      <div class="row col-xs-12 poppin">
+      <div class="row col-xs-12">
         <hr>
-        <h1>H2A|H2B</h1>
-        <p class="feature-text">
-          Cada a&ntilde;o, miles de trabajadoras y trabajadores mexicanos viajan a los Estados Unidos a trav&eacute;s del sistema de visas H-2A (para emplearse en el sector agr&iacute;cola) y H-2B (para emplearse en el sector servicios: construcci&oacute;n, trabajo del hogar y servicios de limpieza).
-        </p>
-        <p class="feature-text">
-          La ausencia de un acuerdo bilateral entre el gobierno de Estados Unidos y el de M&eacute;xico ha ocasionado que los derechos de los trabajadores sean vulnerados y se produzcan graves violaciones a sus derechos humanos.
+        <h1>Visas temporales</h1>
+        <p class="quote">
+          "Lleg&oacute; una persona a nuestro pueblito, una persona extra&ntilde;a para los habitantes de nuestra comunidad, que ven&iacute;a a ofrecerles trabajar en los Estados Unidos con visa de trabajo."
+          <small>&#8212; testimonio recogido de Chilapa de &Aacute;lvarez Guerrero</small>
         </p>
       </div>
 
       <div class="row col-xs-12 poppin">
-        <img src="img/pro-s.png" class="photo-container"/>
+        <img src="img/pesca.png" class="photo-container"/>
+        <p class="feature-text">
+          La ausencia de un acuerdo bilateral entre el gobierno de Estados Unidos y el de M&eacute;xico ha ocasionado que los derechos de los trabajadores sean vulnerados y se produzcan graves violaciones a sus derechos humanos.
+        </p>
         <p class="feature-text">
           La falta de regulaci&oacute;n de las agencias reclutadoras y de contrataci&oacute;n de migrantes para empleos temporales en Estados Unidos (EU) por parte del gobierno mexicano, propicia la violaci&oacute;n a los derechos humanos y laborales de las trabajadoras mexicanas migrantes. Fraude, amenazas, extorsi&oacute;n, discriminaci&oacute;n, trata de personas, acoso y hostigamiento sexual son algunos de los riesgos a los que se enfrentan.
+        </p>
+
+        <div class="table-centered">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Estado</th>
+                <th>Contratos</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Colorado</td>
+                <td>26</td>
+              </tr>
+              <tr>
+                <td>North Carolina</td>
+                <td>16</td>
+              </tr>
+              <tr>
+                <td>Texas</td>
+                <td>14</td>
+              </tr>
+              <tr>
+                <td>New Jersey</td>
+                <td>12</td>
+              </tr>
+              <tr>
+                <td>California</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Louisiana</td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Pennsylvania</td>
+                <td>10</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="feature-text">
+          Cada a&ntilde;o, miles de trabajadoras y trabajadores mexicanos viajan a los Estados Unidos a trav&eacute;s del sistema de visas H-2A (para emplearse en el sector agr&iacute;cola) y H-2B (para emplearse en el sector servicios: construcci&oacute;n, trabajo del hogar y servicios de limpieza).
         </p>
         <p class="feature-text">
           En M&eacute;xico no existe un seguimiento de &eacute;ste proceso. Conoce a los reclutadores que operan de manera ilegal y que han sido identificados por la Coalici&oacute;n de Trabajadoras y Trabajadores Temporales Sinaloenses.
@@ -117,8 +198,11 @@
         <h1>Accidentes</h1>
       </div>
 
-      <div class="row col-xs-12">
-        <img src="img/crab_pickers.jpg" class="photo-container"/>
+      <div class="row col-xs-12 poppin">
+        <img src="img/crab.jpg" class="photo-container"/>
+        <p class="feature-text">
+          En Estados Unidos existe la obligaci&oacute;n, por parte de los empleadores, de entregar un recibo a los trabajadores en los que se registran las horas que han trabajado, este registro en la realidad no es otorgado y, por el contrario los trabajadores son despojados de los ingresos que les corresponder&iacute;an por el tiempo y la actividad que realizan.
+        </p>
       </div>
 
     </div>
@@ -133,8 +217,19 @@
       </div>
 
       <div class="row col-xs-12">
-        <img src="img/paj-s.png" class="photo-container"/>
+        <p class="quote">
+          "Se gasta m&aacute;s de lo que uno gana, y solo alcanza para cubrir las deudas que ocasiona y nada para enviar a la familia. Estando en otro pa&iacute;s pasan muchas cosas por la mente pero uno solo se refugia en el deseo de juntar algo para mandarlo a la familia."
+           <small>&#8212; testimonio recogido en Atlixtac, Guerrero</small>
+        </p>
+
+        <div class="poppin">
+          <img src="img/pasa.png" class="photo-container"/>
+          <p class="feature-text">
+            El tipo de labores que realizan los trabajadores migrantes temporales propicia que los accidentes de trabajo sean comunes. Existe la obligaci&oacute;n para los empleadores de otorgar un seguro que cubra el tratamiento m&eacute;dico y los salarios perdidos de los trabajadores que se hayan accidentado en el trabajo o sufran de una enfermedad ocupacional. Sin embargo, las reglamentaciones no se cumplen, los trabajadores no reciben asistencia m&eacute;dica y son retornados a su pa&iacute;s sin que tengan la posibilidad de denunciar la violaci&oacute;n a sus derechos laborales.
+          </p>
+        </div>
       </div>
+
     </div>
   </section>
 
