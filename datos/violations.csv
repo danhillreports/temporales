@@ -1,0 +1,1393 @@
+case_id,trade_nm,cty_nm,st_cd,h2a_violtn_cnt,h2b_violtn_cnt,findings_start_date,year filed
+1517301,Labor Camp 202,Johnston,SC,1,0,6/17/2008,2008
+1488252,Triple J Ranch,Quinter,KS,1,0,5/1/2007,2007
+1626619,Walnut Grove Farm LLC,Staatsburg,NY,1,0,2/15/2011,2011
+1634867,Frey Produce & Frey Brothers,Keenes,IL,1,0,9/29/2011,2011
+1627135,Morin Forestry,Fort Kent,ME,1,0,10/6/2009,2009
+1627110,Northern Timber Trucking,Fort Kent,ME,1,0,9/21/2009,2009
+1622135,"Champagne Farms, Inc.",Franklin,LA,1,0,9/2/2009,2009
+1616364,B & I Farms,Charlotte,TN,1,0,4/30/2009,2009
+1633806,Simmons Farms,Canonsburg,PA,1,0,3/15/2011,2011
+1629902,Markowski Farms,West Suffield,CT,1,0,10/3/2009,2009
+1623214,Amatos Nursery and Landscaping,Monmouth Junction,NJ,1,0,3/21/2011,2011
+1622622,Carolina Bay Trail Camp,Monetta,SC,1,0,6/20/2011,2011
+1587672,Triple C Farms Labor Camp I,Chesnee,SC,1,0,4/15/2010,2010
+1381581,Salinger Orchards,Brewster,NY,1,0,10/12/2002,2002
+1611195,"R. Hart Hudson Farms, Inc.",South Hill,VA,1,0,2/16/2011,2011
+1586785,Cabbage Farm,Brodnax,VA,1,0,8/24/2008,2008
+1652901,John L. Hanna,Price,UT,1,0,4/20/2010,2010
+1598939,Cotswold Holdings LLC,Hudson,NY,1,0,4/10/2010,2010
+1592706,Weed Orchards,Marlboro,NY,1,0,9/15/2008,2008
+1602254,Holt Farms,Adams,TN,1,0,12/10/2008,2008
+1589738,John Cannon Farms,Theodore,AL,1,0,10/20/2008,2008
+1652052,Herbert Rouse Farms,Kinston,NC,1,0,5/1/2010,2010
+1651023,"Studebaker Nurseries, Inc.",New Carlisle,OH,1,0,7/17/2010,2010
+1645566,G. Lavoie Inc.,Fort Kent,ME,1,0,2/25/2010,2010
+1642130,"Barajas, Manuel FLC",Lake Placid,FL,1,0,10/1/2010,2010
+1626617,Soons Orchard,New Hampton,NY,1,0,1/10/2010,2010
+1620452,"MSCP, INC d/b/a DELTA HARVEST",Indianola,MS,1,0,6/21/2009,2009
+1572116,Barbour Fruit & Nut Farm,Byron,GA,1,0,2/2/2008,2008
+1498958,Two Brothers Farms,Miami,FL,1,0,11/27/2007,2007
+1581160,Cedar Valley Farms,Cedar Valley,UT,1,0,6/3/2008,2008
+1558699,Torrey Farms Inc.,Elba,NY,1,0,7/1/2009,2009
+1558695,J & R Fruit Farms,Hamlin,NY,1,0,7/1/2009,2009
+1551433,Park Place Nursery,Solon,OH,1,0,7/31/2007,2007
+1541125,Spooky Hollow Farms,Georgetown,KY,1,0,4/30/2007,2007
+1493841,"P & H Forestry, LLC - Farm Division",Hermitage,AR,1,0,4/20/2006,2006
+1407467,Tom Stock Harvesting,Mahnomen,MN,1,0,5/12/2004,2004
+1571553,Dickey Farms,Musella,GA,1,0,1/2/2009,2009
+1498037,RagApple Lassie Vineyards,Boonville,NC,1,0,1/1/2007,2007
+1657247,Teddy Morgan dba Morgan Farms,Hopkinsville,KY,1,0,3/15/2010,2010
+1423761,"Bailey Farms, Inc.",Oxford,NC,1,0,2/1/2005,2005
+1380759,Goold Orchard,Castleton,NY,1,0,9/1/2004,2004
+1692234,"Green Acres Produce, Inc.",North Judson,IN,1,0,4/1/2012,2012
+1691232,Southern Vermont Orchards,Bennington,VT,1,0,4/11/2011,2011
+1689130,Chappell Farms,Barnwell,SC,1,0,1/30/2012,2012
+1602252,Bloomfield Farm,Gallatin,TN,1,0,12/1/2008,2008
+1549158,Bentley Farms,Thorsby,AL,1,0,2/8/2008,2008
+1683270,"Statewide Harvesting & Hauling, LLC ( FLC)",Dundee,FL,1,0,9/8/2012,2012
+1679948,"D&K Harvesting, Inc.",Labelle,FL,1,0,12/31/2010,2010
+1672307,"Hollis Orchards, a division of Lanni Orchards",Hollis,NH,1,0,10/19/2010,2010
+1670392,"DMG Farms, Inc",Angier,NC,1,0,2/1/2011,2011
+1668270,Charles Giordano Ranch,Winnemucca,NV,1,0,5/15/2011,2011
+1667568,"Zingler, RM Jr Farms",Kendall,NY,1,0,10/12/2010,2010
+1665271,Montgomery Place Orchards,Annandale on Hudson,NY,1,0,10/1/2010,2010
+1660572,Lone Wolf Management,South Bay,FL,1,0,7/11/2012,2012
+1659869,Scott Strawberry & Tomato Farms,Unicoi,TN,1,0,6/24/2010,2010
+1657964,"McNeill Labor Management, Inc",Belle Glade,FL,1,0,12/18/2011,2011
+1652701,Starbrite Farm,Andover,NJ,1,0,1/1/2011,2011
+1651347,STAR Ranch,Ozona,TX,1,0,1/1/2011,2011
+1545064,Douglas E. Lacks,Red Oak,VA,1,0,6/8/2007,2007
+1545062,Gary R. Dalton,Red Oak,VA,1,0,6/16/2007,2007
+1540755,Ammon Wholesale Nursery,Burlington,KY,1,0,4/16/2007,2007
+1534922,"Overlook Harvesting Company, LLC",Winter Haven,FL,1,0,11/20/2008,2008
+1533538,Standing Stone Vineyards,Hector,NY,1,0,2/16/2008,2008
+1533536,"Harvest Ridge Vineyards, LLC & Associates",Ovid,NY,1,0,2/16/2008,2008
+1531282,Jack Liuzza & Sons Farm,Independence,LA,1,0,1/1/2008,2008
+1526622,Otisco Orchards,Marietta,NY,1,0,8/10/2008,2008
+1525154,"Lawrence Farms Orchards, Inc",Newburgh,NY,1,0,1/1/2008,2008
+1524193,Sierra Landscape Design,Southampton,NY,1,0,9/2/2006,2006
+1518889,Coosaw Farm,Fairfax,SC,1,0,2/1/2008,2008
+1517295,Satcher Camp,Johnston,SC,1,0,6/10/2008,2008
+1518295,Manning Farms,South Hill,VA,1,0,7/12/2006,2006
+1515265,"Hart's Greenhouse & Florist, LLC",Canterbury,CT,1,0,6/13/2006,2006
+1510049,"Rosemont Vineyard and Farms, LLC",La Crosse,VA,1,0,5/11/2006,2006
+1656712,Walter Allgood Farm,Baskerville,VA,1,0,6/5/2010,2010
+1497112,Brackett Orchards,Limington,ME,1,0,11/2/2005,2005
+1485260,Cherryfield Foods,Cherryfield,ME,1,0,8/1/2006,2006
+1484141,David C. Parsons,Chatham,VA,1,0,9/1/2006,2006
+1484075,Eden Farms Greenhouse,West Milford,NJ,1,0,7/16/2005,2005
+1484143,Judy Pruitt,Blairs,VA,1,0,7/18/2005,2005
+1475959,A. Oseguera Company Inc.,Salinas,CA,1,0,12/1/2006,2006
+1654034,"Elmwood Stock Farm, LLC",Georgetown,KY,1,0,6/1/2010,2010
+1475808,Horton Vineyards,Gordonsville,VA,1,0,4/24/2005,2005
+1652066,"Keith Smith, AGER",Four Oaks,NC,1,0,4/12/2011,2011
+1636970,"Terry & Joe Baker Farms, LLC",Norman Park,GA,1,0,11/17/2009,2009
+1484514,David Mitchell,Penhook,VA,1,0,2/28/2007,2007
+1495506,Twin Orchards - Sodus,Sodus,NY,1,0,10/16/2005,2005
+1515652,Bishop House,Chesnee,SC,1,0,5/22/2006,2006
+1369469,Richard Burke dba Burke Ranches,Dubois,ID,1,0,4/3/2004,2004
+1446456,"Oliver C. Mayhew, Jr.",Blairs,VA,1,0,4/5/2006,2006
+1446271,Geronimo Sheep Co.,Vernal,UT,1,0,7/16/2004,2004
+1446470,Jerry Moser,Java,VA,1,0,7/19/2004,2004
+1426866,Hermesch Harvesting,Coweta,OK,1,0,9/16/2005,2005
+1423797,"Kalir Enterprises, Inc.",Brockport,NY,1,0,10/4/2005,2005
+1708286,Brookdale Fruit Farm,Hollis,NH,1,0,9/27/2011,2011
+1704521,T. Bell Detasseling L.L.C.,Lone Tree,IA,1,0,2/25/2013,2013
+1653306,Hudson Farms,Alton,VA,1,0,5/6/2010,2010
+1694154,"Fournerat Toups Farms, LLC",Basile,LA,1,0,5/24/2011,2011
+1677441,Southern Gardens Citrus,Clewiston,FL,1,0,1/13/2011,2011
+1675965,Honey Brook Organic Farm,Pennington,NJ,1,0,3/18/2012,2012
+1697235,George B. Dianis,Emporia,VA,1,0,6/17/2011,2011
+1697229,T & T Farm LLC,Lawrenceville,VA,1,0,6/23/2011,2011
+1693278,"Green Mountain Orchards, Inc.",Putney,VT,1,0,5/2/2011,2011
+1692168,Riggs Brother Farm,Pollocksville,NC,1,0,1/1/2013,2013
+1675672,Shatley Farms,Jefferson,NC,1,0,6/2/2012,2012
+1666686,Pepin Lumber,Coburn Gore,ME,1,0,9/15/2011,2011
+1602269,Barnett Farm,Clarksville,TN,1,0,12/9/2008,2008
+1412368,Richland Farms Partnership,Lake Benton,MN,1,0,3/1/2005,2005
+1406823,Riverside Farms,Alberta,VA,1,0,7/3/2003,2003
+1665197,Roe Orchards,Chester,NY,1,0,10/26/2011,2011
+1545086,Timothy C. Napier,Keysville,VA,1,0,6/14/2007,2007
+1484144,Donna K. Haskins,Chatham,VA,1,0,7/7/2005,2005
+1689505,"Nowak Farms, LLC",Suffield,CT,1,0,5/22/2011,2011
+1411304,Clarence A. Emerson,Dry Fork,VA,1,0,6/26/2003,2003
+1409226,Sandhill Turf,Candor,NC,1,0,8/10/2004,2004
+1518890,Coosaw Farm Camp #1,Fairfax,SC,1,0,2/1/2008,2008
+1652078,"Stuart Pierce, AGER",Ahoskie,NC,1,0,5/3/2010,2010
+1702947,"Patterson Farm, Inc.",China Grove,NC,1,0,3/14/2012,2012
+1598731,Maria . Perez,Lyons,GA,1,0,8/14/2010,2010
+1637537,Alta Citrus LLC,Avon Park,FL,1,0,12/5/2011,2011
+1393514,Boisvert Farm,Hadley,MA,1,0,2/1/2003,2003
+1671908,Clark Farms,Granby,CT,1,0,10/25/2010,2010
+1414712,"Mulnite Farms, Inc.",Broad Brook,CT,1,0,8/8/2003,2003
+1446410,Tex Adkins,Chatham,VA,1,0,6/30/2004,2004
+1653308,"Clary Farms, Inc.",South Hill,VA,1,0,5/7/2010,2010
+1368379,Fox Hill Farm,Enfield,CT,1,0,9/15/2002,2002
+1617657,Andrew Tyson,Nashville,NC,1,0,8/17/2009,2009
+1381518,Corwith Farms Inc.,Water Mill,NY,1,0,10/1/2002,2002
+1511705,Ward Oyster Co.,Gloucester,VA,1,0,5/18/2006,2006
+1397253,"Tri-Turf Sod Farms, Inc.",Paris,TN,1,0,7/29/2003,2003
+1385779,Simplot Livestock,Grand View,ID,1,0,9/26/2004,2004
+1380763,Bowman Orchard,Rexford,NY,1,0,8/30/2004,2004
+1514006,John Hammond,Louisville,KY,2,0,5/28/2006,2006
+1479367,Scott Olsen,Spanish Fork,UT,2,0,5/26/2005,2005
+1441689,James Cooley Farms,Chesnee,SC,2,0,4/20/2005,2005
+1631813,"Sandy Knoll Farms, Inc",Lyndonville,NY,2,0,10/6/2009,2009
+1620518,Rainbow Farms,Madison,OH,2,0,7/25/2009,2009
+1617962,Terrell & Johnny Williams,Autryville,NC,2,0,6/18/2009,2009
+1614492,Ohman's Produce,Hartville,OH,2,0,6/3/2009,2009
+1620371,Stan Armstrong Farms,La Center,KY,2,0,7/14/2009,2009
+1642576,McNeill Labor Management,Bunnell,FL,2,0,12/26/2011,2011
+1446437,T. J. Fuller,Gretna,VA,2,0,7/13/2004,2004
+1629915,David Mann,Fort Blackmore,VA,2,0,4/25/2011,2011
+1625396,"Alewelt, Inc.",Alden,IA,2,0,4/10/2010,2010
+1492872,"John Peroulis and Sons Sheep, Inc",Craig,CO,2,0,2/3/2007,2007
+1590833,Jeff Hunewill,Wellington,NV,2,0,3/15/2009,2009
+1512244,Bluff Gardens,Harbor Springs,MI,2,0,6/3/2006,2006
+1473047,OB Sheep,Mapleton,UT,2,0,5/26/2005,2005
+1645552,Pascal Lessard Inc.,Rangeley,ME,2,0,2/23/2010,2010
+1602278,River Bluff Farm,Clarksville,TN,2,0,4/8/2010,2010
+1598194,"Captain Cook Honey, Ltd.",Captain Cook,HI,2,0,1/1/2010,2010
+1590841,Texas Speciality Cut Flowers,Wimberley,TX,2,0,2/15/2010,2010
+1649568,"Bieber Farm Management, Inc.",Mamou,LA,2,0,1/1/2011,2011
+1637431,Sexton Farms,Jefferson,NC,2,0,12/9/2009,2009
+1637430,Cartner Christmas Tree Farm,Newland,NC,2,0,3/4/2010,2010
+1620935,North Star Construction,Webster City,IA,2,0,7/29/2009,2009
+1601172,Four Star,Oakes,ND,2,0,4/15/2010,2010
+1583724,John Durand Farms,Saint Martinville,LA,2,0,6/16/2008,2008
+1582524,Fulton Farms,Troy,OH,2,0,6/20/2007,2007
+1579340,"Painter & Company, Inc.",Evanston,WY,2,0,6/16/2008,2008
+1578626,Dixie Belle Peaches,Ridge Spring,SC,2,0,1/8/2010,2010
+1554011,Brull Harvesting,Pierre,SD,2,0,1/1/2009,2009
+1550838,Sims Trucking,Otis,CO,2,0,3/30/2008,2008
+1534586,E.T Ag Services,Orange,VA,2,0,1/1/2007,2007
+1620141,Larry Robinson,Rifle,CO,2,0,6/18/2009,2009
+1586738,Merryvale Farms,Deltaville,VA,2,0,7/26/2008,2008
+1560721,Starbrite Farm,Andover,NJ,2,0,11/12/2007,2007
+1525406,Albrin Fruit Farm,Lyons,NY,2,0,5/5/2008,2008
+1490549,"Seaway Timber Harvesting, Inc.",Massena,NY,2,0,9/14/2005,2005
+1446411,Rufus H. Adkins,Blairs,VA,2,0,6/29/2004,2004
+1621602,Samuel Church,Deep Gap,NC,2,0,1/1/2010,2010
+1689515,Dixie Belle,Ridge Spring,SC,2,0,1/13/2012,2012
+1686920,Miller Farms,Farmington,KY,2,0,4/4/2011,2011
+1677193,Consolation Farms #2,Crofton,KY,2,0,12/23/2010,2010
+1670406,Danny Joe Pope Farm,Clinton,NC,2,0,4/15/2012,2012
+1667334,"Raffiani & Hahn Ent., Inc",Catskill,NY,2,0,9/20/2010,2010
+1667311,"Clover Leaf Nurseries, Inc",Albany,NY,2,0,1/2/2011,2011
+1663555,R & R Harvesting,Labelle,FL,2,0,7/14/2012,2012
+1653347,Fitzgerald Farms,Princeton,KY,2,0,4/14/2010,2010
+1641263,"Rodriguez Citrus Harvesting, Inc",Labelle,FL,2,0,12/5/2010,2010
+1639054,"Scottsdale Farms, Inc.",Alpharetta,GA,2,0,12/14/2009,2009
+1582523,Jamie's Mulch & Topsoil,West Chester,OH,2,0,5/26/2008,2008
+1544038,Gurosik's Berry Plantation,North Augusta,SC,2,0,4/22/2007,2007
+1540451,Color Star Growers of Colorado,Peyton,CO,2,0,3/31/2007,2007
+1537670,"Barajas, Hector FLC",Arcadia,FL,2,0,10/25/2008,2008
+1533540,Wagner Farms,Lodi,NY,2,0,2/16/2008,2008
+1525271,Island Design & Landscaping Inc.,Dix Hills,NY,2,0,9/14/2006,2006
+1525157,Twin Ponds Nursery,Rhinebeck,NY,2,0,1/1/2007,2007
+1522289,"Twin Brooks Garden Center, Inc",Millbrook,NY,2,0,10/6/2006,2006
+1520247,Garden Outlet/The Yard,East Moriches,NY,2,0,9/1/2006,2006
+1517079,Dixie Belle,Ridge Spring,SC,2,0,1/1/2007,2007
+1502950,Diaz & Sons,San Luis,AZ,2,0,11/1/2007,2007
+1486470,Patterson Farms,Chesterland,OH,2,0,9/3/2005,2005
+1485123,"Van Houtte Farm, George",Armada,MI,2,0,8/5/2005,2005
+1510045,"Merryvale Farms, Inc.",Deltaville,VA,2,0,5/6/2006,2006
+1508845,Mt. Clifton Fruit Company,Timberville,VA,2,0,4/23/2006,2006
+1493286,Sweet Dreams Farm,Valatie,NY,2,0,3/10/2007,2007
+1492610,John Peroulis and Sons,Craig,CO,2,0,10/16/2006,2006
+1454181,"Thorn Custom Harvesting, LLC",Houston,MS,2,0,9/1/2005,2005
+1484145,Danny Carroll Osborne,Callands,VA,2,0,7/17/2005,2005
+1470789,"Bramer Sod Farms, Inc.",Louisville,KY,2,0,3/8/2005,2005
+1458129,Emerald Valley Ranches,Caribou,ME,2,0,10/11/2004,2004
+1532973,County Line Farms,Summer Shade,KY,2,0,2/19/2007,2007
+1667341,DeForge Farm & Greenhouse Inc.,Schenectady,NY,2,0,2/15/2012,2012
+1660414,"Cotton Hope Orchards, Inc.",Monetta,SC,2,0,12/28/2010,2010
+1659654,Millers Honey Farm,Gackle,ND,2,0,7/11/2010,2010
+1652058,"Kay Fisher, AGER",Whitakers,NC,2,0,5/2/2010,2010
+1631123,Canam Harvesting LLC,Seaford,DE,2,0,5/8/2010,2010
+1572096,Taylor Orchards,Reynolds,GA,2,0,2/22/2008,2008
+1435620,Kram Farms dba Kram Harvesting,Duke,OK,2,0,3/15/2005,2005
+1451736,Stoutridge Vineyard,Marlboro,NY,2,0,5/11/2006,2006
+1451734,Walnut Grove Farm LLC,Staatsburg,NY,2,0,4/1/2006,2006
+1448217,King Farm,Townsend,MA,2,0,2/27/2006,2006
+1447753,Cecil Beach,Newland,NC,2,0,7/2/2004,2004
+1446447,Holly Brothers Farm,Chatham,VA,2,0,7/14/2004,2004
+1376811,John Mahan,Huntley,MT,2,0,7/10/2004,2004
+1446468,Terry A. Moore,Chatham,VA,2,0,7/14/2004,2004
+1592344,Tim Priest Farms,Carthage,NC,2,0,4/1/2009,2009
+1670766,"Heberle, Joseph Farms",Hamlin,NY,2,0,11/1/2010,2010
+1580930,H&D Farms Inc.,Autryville,NC,2,0,6/28/2008,2008
+1448948,R. Hart Hudson Farm,South Hill,VA,2,0,8/10/2004,2004
+1707759,Meadowbrook Orchards,Sterling,MA,2,0,10/28/2011,2011
+1707620,Holmquest Farm,Hudson,NY,2,0,10/22/2011,2011
+1706303,Quarry Hill Farm,Jeffersonville,VT,2,0,9/6/2011,2011
+1697837,"Gold Orchards, Incorporated",Stonewall,TX,2,0,3/26/2012,2012
+1694168,Shaine McGee,Eunice,LA,2,0,5/22/2011,2011
+1699138,Kammans Farms,Vallonia,IN,2,0,7/18/2011,2011
+1697242,Mitchell K. Tackett,South Hill,VA,2,0,6/17/2011,2011
+1697231,Douglas Edward Harrison,Dolphin,VA,2,0,6/22/2011,2011
+1686148,Big Horn Rice Farm Partnership,Marksville,LA,2,0,5/18/2011,2011
+1669059,"Timber Ridge Fruit Farm, LLC",Gore,VA,2,0,8/1/2012,2012
+1646976,Jacobs Silver K Farms,Hamer,ID,2,0,5/1/2010,2010
+1624495,Louis Scatena Ranch,Yerington,NV,2,0,1/1/2011,2011
+1596770,Eaton Farms,Leesport,PA,2,0,10/27/2008,2008
+1624808,Kile Farms,Sabina,OH,2,0,8/27/2009,2009
+1408462,Chappell Farms,Barnwell,SC,2,0,6/22/2004,2004
+1448227,Idylwilde Farm,Acton,MA,2,0,8/27/2004,2004
+1446429,Roger Edwards,Chatham,VA,2,0,6/30/2004,2004
+1670419,Jerome Langdon Farms,Angier,NC,2,0,10/24/2010,2010
+1629830,Rolling Meadows Farm,Lawtons,NY,2,0,12/5/2009,2009
+1433495,Bill Robinson,Vernal,UT,2,0,3/9/2004,2004
+1387575,LG Herndon Farms,Lyons,GA,2,0,9/15/2003,2003
+1385651,Winston Preston,Salvisa,KY,2,0,9/10/2004,2004
+1406836,Aubrey Wray,Jarratt,VA,3,0,4/25/2004,2004
+1671829,Saratoga Apple Inc.,Schuylerville,NY,3,0,10/19/2010,2010
+1596958,"Nichols Farm, LLC",Middletown,VA,3,0,10/7/2008,2008
+1437584,Duelke Sheep Co.,Buhl,ID,3,0,3/21/2004,2004
+1631310,Wyatt Farms Greenhouse Nursery,Benton,KY,3,0,4/6/2010,2010
+1627661,"First Fruits Organic Farm, Inc.",Paonia,CO,3,0,8/18/2009,2009
+1621640,Three Forks Ranch,Savery,WY,3,0,6/10/2009,2009
+1622227,"Wiggins Farms, LLP",Caldwell,TX,3,0,7/2/2009,2009
+1629391,Winding Brook Turf Farm,Wethersfield,CT,3,0,1/2/2010,2010
+1621000,"Mackey Enterprises, Inc.",Elizabethtown,KY,3,0,7/31/2009,2009
+1598259,"Kludt Brothers, Inc.",Kendall,NY,3,0,11/22/2008,2008
+1593786,North Star Orchards,Yuba City,CA,3,0,10/25/2008,2008
+1621600,Wolf Creek Tree Farm & Nursery (Renee Campbel,Tuckasegee,NC,3,0,3/4/2010,2010
+1585910,"Titan Peach Farms, Inc",Ridge Spring,SC,3,0,2/20/2009,2009
+1584872,Larry McArthur Farms,Burlington,CO,3,0,10/1/2008,2008
+1582490,Abate Landscape,Chesterland,OH,3,0,5/25/2008,2008
+1580145,"Badger Evergreen Farms I, LLC",Merrill,WI,3,0,1/1/2009,2009
+1533304,Heartland Hydroponics,Benton,KY,3,0,1/15/2007,2007
+357971,"Botticello, Henry d/b/a",Manchester,CT,3,0,4/1/1998,1998
+1590821,Lavy Enterprises Turf Grass,New Carlisle,OH,3,0,8/19/2008,2008
+1581569,Stanczyk Farms,Grantsville,MD,3,0,7/6/2008,2008
+1578790,Susan S. Eubank,Dinwiddie,VA,3,0,6/27/2009,2009
+1575772,"Plummer, Courtney",Waterport,NY,3,0,6/10/2008,2008
+1571572,Little Creek Nursery,Mc Minnville,TN,3,0,3/6/2008,2008
+1563599,Thomas Academy Farms,Elizabethtown,KY,3,0,12/18/2007,2007
+1563015,"Twin Star Farms, Inc.",New Paltz,NY,3,0,1/1/2008,2008
+1560349,"Cloverdale Farms, Inc.",Weatherly,PA,3,0,10/23/2007,2007
+1555866,Kile Farms,Sabina,OH,3,0,9/6/2007,2007
+1549155,Jimmy Durbin Farms,Clanton,AL,3,0,2/10/2008,2008
+1548422,Landscape Workshop,Halls,TN,3,0,5/12/2009,2009
+1546375,"Gonzalez, Jose C. Jr.",Mission,TX,3,0,3/1/2009,2009
+1555221,Northern Dutchess Landscaping,Red Hook,NY,3,0,3/18/2009,2009
+1549111,Zehr Farms Inc.,Lockport,NY,3,0,1/1/2009,2009
+1548483,Green Thumb Farm,Water Mill,NY,3,0,7/24/2007,2007
+1670241,RTC Inc.,Adairville,KY,3,0,10/11/2010,2010
+1439581,Folz Farms,Hopkinsville,KY,3,0,4/7/2004,2004
+1651891,Larson Livestock Inc.,Lyman,WY,3,0,1/1/2010,2010
+1578799,Big Fork Farms,Bracey,VA,3,0,7/16/2008,2008
+1665352,Lawrence Farms,Newburgh,NY,3,0,11/15/2010,2010
+1659140,Denais Farms,Kaplan,LA,3,0,7/27/2010,2010
+1655957,Boyd Farms,Rock Hill,SC,3,0,5/10/2011,2011
+1652420,Berry Plantation,North Augusta,SC,3,0,2/2/2011,2011
+1651421,McLeod Farms,McBee,SC,3,0,4/2/2011,2011
+1642004,"Merrimack Valley Apiaries, Inc.",Bunkie,LA,3,0,3/1/2010,2010
+1623161,A-1 Sealing Inc.,Richton,MS,3,0,6/20/2010,2010
+1617981,Larry Eason,Wade,NC,3,0,6/27/2009,2009
+1617786,"Great Southern Farms, LLC",Richton,MS,3,0,6/20/2009,2009
+1572968,"Hudson Orchard, Inc.",Manchester,GA,3,0,1/5/2009,2009
+1545060,Wellington Bacon,Kenbridge,VA,3,0,6/7/2007,2007
+1541124,Peninsula Farm,Georgetown,KY,3,0,4/24/2007,2007
+1521480,Pope's Plant Farm,Greenback,TN,3,0,11/30/2007,2007
+1385778,"Anchustegui, John",Boise,ID,3,0,11/15/2002,2002
+1519848,Tim Reeves Farm,Phoenix,NY,3,0,5/4/2008,2008
+1510031,"Lowfields Farm, LLC",Palmyra,VA,3,0,5/6/2006,2006
+1486104,Evolutionary Organics,New Paltz,NY,3,0,1/6/2006,2006
+1483973,Starbrite Farm,Newton,NJ,3,0,4/7/2007,2007
+1458379,Allenholm Farm,South Hero,VT,3,0,10/20/2004,2004
+1660019,Carraway Family Farms,Murray,KY,3,0,4/20/2010,2010
+1657766,Zimmerman Farms,Charlestown,IN,3,0,2/20/2012,2012
+1657231,Millers & Sons Tobacco,Mayfield,KY,3,0,5/15/2011,2011
+1621421,Golden Leaf Farms,Keysville,VA,3,0,7/28/2009,2009
+1495507,Wertman Farm,Melrose,NY,3,0,3/26/2007,2007
+1451735,Thanksgiving Farm at the Center for Discovery,Monticello,NY,3,0,4/1/2006,2006
+1659657,Bob Brandi Honey,Hebron,ND,3,0,7/6/2010,2010
+1661308,Arthur T. Lee,Dunn,NC,3,0,4/1/2011,2011
+1406834,George Dianis,Emporia,VA,3,0,4/5/2004,2004
+1555187,Big Sioux River Honey Company,Hawarden,IA,3,0,7/15/2009,2009
+1452753,Swan Creek,Bridgehampton,NY,3,0,8/9/2004,2004
+1448222,Meadow View Farm,Southwick,MA,3,0,8/14/2004,2004
+1657239,Mark Luttrull,Trenton,KY,3,0,3/1/2010,2010
+1449079,James H. Edwards,Chatham,VA,3,0,7/13/2004,2004
+1653584,Bernhardt Farms,Taylor,ND,3,0,4/23/2010,2010
+1707986,The Farm at Kristy's Barn,Castleton on Hudson,NY,3,0,3/1/2012,2012
+1691338,Stephensen Sheep Co.,Fountain Green,UT,3,0,3/1/2011,2011
+1697241,Buffalo Farms,Buffalo Junction,VA,3,0,6/25/2011,2011
+1697239,Eddie Callahan,South Hill,VA,3,0,6/21/2011,2011
+1697227,William E. Wright,White Plains,VA,3,0,6/19/2011,2011
+1697056,"Gro-Moore Farms, Inc.",Rush,NY,3,0,6/19/2011,2011
+1694172,CBM Farms,Simmesport,LA,3,0,5/23/2011,2011
+1689127,Geary  Jolley Farms,Chesnee,SC,3,0,3/28/2012,2012
+1686147,"S & W Zaunbrecher Farms, LLP",Elton,LA,3,0,3/22/2011,2011
+1624505,"Lee Ivey Ranch, Inc.",Yerington,NV,3,0,2/1/2011,2011
+1364135,"Double H. Farms, Inc.",Dunn,NC,3,0,7/1/2003,2003
+1590557,Lake County Nursery,Perry,OH,3,0,8/3/2008,2008
+1423269,Johnny Dawson/Clayton Ag. Service,Olmstead,KY,3,0,11/8/2003,2003
+1422661,"Anthony DeMarco & Sons, Inc.",Elbridge,NY,3,0,5/11/2005,2005
+1410884,B I Farms/ Michael Ingram,Charlotte,TN,3,0,5/14/2005,2005
+1652061,Double Lee Farms,Dunn,NC,3,0,4/1/2011,2011
+1580939,Jack Aman,Maysville,NC,3,0,5/24/2009,2009
+1410852,Farmer Farms,Cedar Hill,TN,3,0,5/13/2005,2005
+1397246,S & W Greenhouse,Carrollton,KY,3,0,4/14/2003,2003
+1386083,CSF Farms,Seibert,CO,3,0,10/11/2004,2004
+1306246,Jorgensen Farms,Bancroft,ID,4,0,3/1/2003,2003
+1600329,Dolan Orchards,Wallkill,NY,4,0,10/22/2008,2008
+1501504,Michael Mitchell,Midway,KY,4,0,1/25/2006,2006
+1627506,"Wayside Nursery, Inc.",Niagara Falls,NY,4,0,9/10/2009,2009
+1545059,John R. Bacon,Kenbridge,VA,4,0,6/10/2007,2007
+1631886,Page Barker Farms,Adairville,KY,4,0,10/19/2009,2009
+1629916,Hortons Greenhouse,Blackwater,VA,4,0,5/15/2011,2011
+1590834,Roland Dreyer,Minden,NV,4,0,4/15/2009,2009
+1550632,"3 Bar E, L.L.C.",Ethel,LA,4,0,4/3/2009,2009
+1620375,Bale Farms,Horse Cave,KY,4,0,7/29/2009,2009
+1606365,Mundt Farm,Agar,SD,4,0,5/16/2009,2009
+1555664,DeLea Sod Farm,East Northport,NY,4,0,9/11/2007,2007
+1458372,Stonewood Farm,Orwell,VT,4,0,12/7/2004,2004
+1602610,Murphy Farm,Springfield,TN,4,0,12/8/2008,2008
+1590058,Markowski Farms,West Suffield,CT,4,0,5/26/2010,2010
+1600039,McLusky Orchards,La Fayette,NY,4,0,10/26/2008,2008
+1599318,Moriello Brothers,New Paltz,NY,4,0,1/1/2009,2009
+1587838,Trust Nursery,Pulaski,NY,4,0,9/3/2008,2008
+1583368,Pennhill Farms,Edinburg,PA,4,0,7/6/2008,2008
+1580941,Pate's Tree Farm,Fayetteville,NC,4,0,6/28/2008,2008
+1545057,"Teeuwen Greenhouses, LTD",Chesapeake,VA,4,0,7/26/2007,2007
+1545055,North Star Dairy,Lancaster,MN,4,0,7/4/2009,2009
+1537421,Silver Bait,Coalmont,TN,4,0,4/5/2008,2008
+1582520,Tepe Environmental,Cincinnati,OH,4,0,6/8/2008,2008
+1561024,ERW Farms,Bailey,NC,4,0,1/1/2009,2009
+1555195,Honeyland Apiaries,Kennard,NE,4,0,1/1/2009,2009
+1555134,Hauke Farms,Sardinia,OH,4,0,8/19/2007,2007
+1554069,"Anyela's Vineyards, LLC",Skaneateles,NY,4,0,3/27/2009,2009
+1545084,Timothy Ferrell Farm,Wylliesburg,VA,4,0,6/15/2007,2007
+1478255,JC Castro (FLC),Vidalia,GA,4,0,4/1/2007,2007
+1631800,Tenney Farm,Antrim,NH,4,0,10/11/2009,2009
+1410862,Dan Peacher,Indian Mound,TN,4,0,5/7/2005,2005
+1656110,Gary Dean Baker,Pinnacle,NC,4,0,5/21/2010,2010
+1521302,Ladder Livestock,Savery,WY,4,0,9/25/2006,2006
+1545081,C. Wayne Ferguson,Vernon Hill,VA,4,0,6/24/2007,2007
+1406821,Thomas Boose,Blackstone,VA,4,0,7/3/2003,2003
+1336587,Argyle Ranch,Randolph,UT,4,0,11/1/2003,2003
+1683266,Center State Harvesting & Hauling Inc.,Bartow,FL,4,0,11/3/2012,2012
+1665351,Ochs Orchard,Warwick,NY,4,0,10/10/2011,2011
+1466653,Ducharme Plant N Prune,Derby,VT,4,0,4/3/2005,2005
+1677195,Consolation Farm LLC #3,Crofton,KY,4,0,12/23/2010,2010
+1667345,Burger's Farm,Schenectady,NY,4,0,3/1/2011,2011
+1657250,Justin Clay Chase,Glasgow,KY,4,0,12/29/2011,2011
+1648399,Stacy's Greenhouses,York,SC,4,0,3/7/2011,2011
+1645517,Triangle J Farms,Seminole,TX,4,0,2/23/2010,2010
+1626861,"Walter P. Rawl & Sons, Inc. d/b/a MSCP",Indianola,MS,4,0,1/1/2010,2010
+1539261,Wagner Vineyards LLC,Lodi,NY,4,0,2/16/2008,2008
+1527719,Tehandon Contractors,Spruce Pine,NC,4,0,9/25/2008,2008
+1521234,Wickham's Fruit Farm,Cutchogue,NY,4,0,7/27/2006,2006
+1497051,Red Hill Tobacco,Scottsville,KY,4,0,4/15/2007,2007
+1485248,Misty Blue USA Corp,Portland,ME,4,0,7/24/2006,2006
+1143463,Loomis Livestock,Donnelly,ID,4,0,10/1/2000,2000
+1484151,Tommie & Jimmy Collie,Ringgold,VA,4,0,7/15/2005,2005
+1463476,"Francis Barlow, Jr. Farms",Ruther Glen,VA,4,0,12/4/2004,2004
+1456386,A-1 Land Care Inc.,Lewiston,NY,4,0,10/22/2004,2004
+1657763,Clark Nickles,Charlestown,IN,4,0,6/5/2010,2010
+1651011,Underwood Fur & Feed,New Hampton,IA,4,0,3/31/2010,2010
+1630901,Snells Greenhouses,Mount Airy,MD,4,0,9/16/2009,2009
+1484150,Harry Wayne Power,Gretna,VA,4,0,7/11/2005,2005
+1657236,Joe Dan Taylor Farms,Almo,KY,4,0,4/15/2010,2010
+1385415,Alyson's Orchard,Walpole,NH,4,0,12/7/2002,2002
+1446433,"Dillard H. Finch, III",Blairs,VA,4,0,7/18/2004,2004
+1446466,Phillip McCain,Keeling,VA,4,0,4/5/2006,2006
+1446416,Terry W. Bass,Ringgold,VA,4,0,6/26/2004,2004
+1545079,A. Neil Corum,Warfield,VA,4,0,6/16/2007,2007
+1706229,"Young Hollow, Doug Young, Rio Verde Nurseries",Forest Hill,LA,4,0,10/11/2010,2010
+1698768,"Red Diamond Enterprises, Inc.",Wimauma,FL,4,0,1/19/2012,2012
+1679252,Pete's Greens,Craftsbury,VT,4,0,12/18/2010,2010
+1671981,Tyson Sanderfur,Hartford,KY,4,0,12/18/2010,2010
+1417651,VAGA - Robert C. Elliott,South Boston,VA,4,0,3/1/2005,2005
+1484149,Danny Lewis,Gretna,VA,4,0,7/12/2005,2005
+1625233,Fox Hill Farm,Enfield,CT,4,0,8/24/2009,2009
+1697230,"Paul W. Holloway, Jr.",Freeman,VA,4,0,6/21/2011,2011
+1406827,Robert C. Elliott,Dry Fork,VA,4,0,3/1/2005,2005
+1580863,Jimmy Elder,Fancy Farm,KY,4,0,8/25/2008,2008
+1448925,John Pyron,Keeling,VA,4,0,7/18/2004,2004
+1413250,Fox Hill Farm,Enfield,CT,4,0,4/1/2005,2005
+1671993,Taylor Farms,Russellville,KY,5,0,4/15/2010,2010
+1392081,Robert Artz,Minot,ND,5,0,5/8/2004,2004
+1622152,"The LaCassane Company, Inc.",Lake Arthur,LA,5,0,6/24/2009,2009
+1621638,Julian Land & Livestock,Kemmerer,WY,5,0,6/9/2009,2009
+1588346,Triple C Farms Labor Camp II,Chesnee,SC,5,0,4/15/2010,2010
+1586948,Fernandez Ranch & Western Range Association,Centerville,WA,5,0,9/20/2008,2008
+1616366,T & R Farm,Clarksville,TN,5,0,4/30/2009,2009
+1597418,Nolan Giles & Sons Ranch,Tabiona,UT,5,0,11/1/2008,2008
+1567411,S & S Chopping,Elgin,ND,5,0,3/30/2009,2009
+1555639,Grass Farm,Morgan Hill,CA,5,0,5/23/2009,2009
+1558808,Maple Ridge Fruit Farm,Newark,NY,5,0,1/3/2009,2009
+1547324,Bush N Vine,York,SC,5,0,3/7/2009,2009
+1583718,Rice Acres,Kinder,LA,5,0,6/17/2008,2008
+1560348,DPS Trees,New Ringgold,PA,5,0,10/21/2007,2007
+1434219,Triple J Ranch,Quinter,KS,5,0,3/23/2005,2005
+1514875,Dwight Miller & Son Orchard,East Dummerston,VT,5,0,1/6/2007,2007
+1668090,Robey Farms,Adairville,KY,5,0,10/11/2010,2010
+1670407,Trent Wilson Farms,Angier,NC,5,0,1/1/2012,2012
+1665704,Villa Milagro Vineyard,Phillipsburg,NJ,5,0,1/1/2010,2010
+1667325,Rexcroft Farm,Athens,NY,5,0,2/21/2011,2011
+1659144,Crawfish Distributors,Breaux Bridge,LA,5,0,7/18/2010,2010
+1656371,Springs Farm,Fort Mill,SC,5,0,1/3/2011,2011
+1656111,Hudson Farm,Turkey,NC,5,0,3/29/2011,2011
+1627070,Bashutski Harvesting,Winnett,MT,5,0,2/16/2010,2010
+1615471,TLH Farms,England,AR,5,0,2/15/2009,2009
+1545077,Averett R. Simpson,Vernon Hill,VA,5,0,6/24/2007,2007
+1499260,Henley Farm,Virginia Beach,VA,5,0,12/30/2005,2005
+1496233,"Wexford Farms, Inc.",Wexford,PA,5,0,11/5/2005,2005
+1494582,"Norwich Meadows Farm, LLC",Norwich,NY,5,0,1/7/2007,2007
+1493194,Kirby's Farm Market,Brockport,NY,5,0,4/21/2007,2007
+1493023,Flying H Farms,Mountain Home,ID,5,0,11/2/2005,2005
+1486463,Gerber's,Elyria,OH,5,0,7/24/2005,2005
+1486459,Briar Rose Nursery,Painesville,OH,5,0,8/19/2006,2006
+1485008,"Muldoon Ranch Co., LLC",Bellevue,ID,5,0,5/28/2007,2007
+1482961,"Lakeside Sod Supply Co., Inc.",Clarence Center,NY,5,0,1/6/2007,2007
+1484140,Keith Atkinson,Java,VA,5,0,7/13/2005,2005
+1462512,Todd Webb,Bowling Green,KY,5,0,3/10/2005,2005
+1529217,Butler Farms,Hardinsburg,KY,5,0,12/11/2006,2006
+1613921,Abernethy & Spencer Greenhouses,Purcellville,VA,5,0,2/6/2010,2010
+1579573,Craven Farms,Sumter,SC,5,0,4/1/2010,2010
+1598524,Stoudt's Orchards,Hamburg,PA,5,0,10/15/2008,2008
+1707612,Free Bird Farm LLC,Palatine Bridge,NY,5,0,2/15/2012,2012
+1702040,Cherryfield Foods,Cherryfield,ME,5,0,7/29/2013,2013
+1694708,Frank Howey Family Farms,Monroe,NC,5,0,7/12/2011,2011
+1697237,Mike Robinson,Emporia,VA,5,0,6/18/2011,2011
+1691079,Peddicord Custom Harvesting,Wamego,KS,5,0,4/24/2011,2011
+1650801,J.W. Anderson and Sons,Wethersfield,CT,5,0,8/1/2009,2009
+1654041,Dusty Feather Farm,Shelbyville,KY,5,0,6/1/2010,2010
+1556371,Lawson Camp,Hartsville,SC,5,0,8/18/2009,2009
+1692816,Jerry McKinney,Clifty,KY,5,0,5/8/2011,2011
+1587213,Bowman Farm,North Collins,NY,5,0,11/4/2008,2008
+1446471,Archie Motley,Chatham,VA,5,0,7/19/2004,2004
+1397240,Wyatt Farms Greenhouse & Nursery,Benton,KY,5,0,4/29/2003,2003
+1581511,Michael D Kimsey,Manderson,WY,6,0,7/8/2008,2008
+1620519,Red Rock Nursery,Painesville,OH,6,0,6/17/2009,2009
+1608263,W. R. Cleverley / Verna Cleverley,Dillon,MT,6,0,1/1/2009,2009
+1634915,"Watkins Nurseries, Inc.",Midlothian,VA,6,0,7/19/2010,2010
+1626620,DeBuck's Sod Farm,Pine Island,NY,6,0,8/24/2009,2009
+1613724,D & H Farms,Herndon,KY,6,0,4/15/2009,2009
+1612508,"Horton Vineyard, Inc",Orange,VA,6,0,4/11/2009,2009
+1617976,Ashley Mohorn,Littleton,NC,6,0,3/15/2010,2010
+1592333,"M & H Farm, Inc.",Clarksville,TN,6,0,8/22/2008,2008
+1583366,Gypsy Farms,Greenville,MS,6,0,5/28/2008,2008
+1584180,Hayden Farms Association,Bardwell,KY,6,0,2/18/2009,2009
+1559779,"L & M Fuller Family Partnership, LLLP",Palisade,CO,6,0,6/12/2008,2008
+1552536,Robinson Lumber Co.,Fort Kent,ME,6,0,6/1/2009,2009
+1563782,Kleinsasser Farms,Chaseley,ND,6,0,3/15/2009,2009
+1560363,"Lehigh Valley Home & Garden Center, Inc.",Northampton,PA,6,0,3/1/2000,2000
+1560362,"Subarashii Kudamono, LP",Germansville,PA,6,0,10/21/2007,2007
+1558700,"Little Lake Farms, L.L.C.",Albion,NY,6,0,8/13/2009,2009
+1545083,William B. Devin,Wylliesburg,VA,6,0,6/28/2007,2007
+1433136,"Bears Paw Apiaries, Inc.",Chinook,MT,6,0,6/27/2004,2004
+1447763,Joe Don Reece,Winston Salem,NC,6,0,4/1/2006,2006
+1686912,Jared Donaldson Farms,Hickory,KY,6,0,4/30/2011,2011
+1659695,"Big Valley Sod Farms, Inc",Calhan,CO,6,0,7/2/2010,2010
+1655855,Nunn Farms,Magnolia,KY,6,0,6/5/2010,2010
+1642100,Charles E. Britt,Roanoke,LA,6,0,4/12/2010,2010
+1602608,"Garcia Harvesting, LLC",San Angelo,TX,6,0,4/28/2010,2010
+1545044,William Carl Ligon,Chase City,VA,6,0,6/28/2007,2007
+1530184,The Country Nursery,Chester,NJ,6,0,12/2/2006,2006
+1519357,Fulcher's Red Fox Stables,Oriental,NC,6,0,5/31/2008,2008
+1518293,McBride Brothers Farms,Skipwith,VA,6,0,7/21/2006,2006
+1497822,George H. McCain,Willisburg,KY,6,0,1/5/2006,2006
+1652049,R.J. Hinnant & Sons Farm,Kenly,NC,6,0,5/3/2010,2010
+1486460,Brotzman's Nursery,Madison,OH,6,0,7/30/2005,2005
+1484147,Roy Frances Swanson,Callands,VA,6,0,7/17/2005,2005
+1475810,Acorn Hill Vineyards,Madison,VA,6,0,5/7/2005,2005
+1657653,"Hart's Greenhouse and Florist, LLC",Canterbury,CT,6,0,5/26/2010,2010
+1446413,Maxwell's Farm,Changewater,NJ,6,0,4/1/2006,2006
+1406831,"Tight Squeeze Investments, Inc.",Blairs,VA,6,0,3/11/2005,2005
+1445248,Zehr Farms Inc.,Lockport,NY,6,0,6/26/2004,2004
+1447758,Scott Hedgecock,Kernersville,NC,6,0,1/1/2006,2006
+1446409,Sanford J. Adkins,Chatham,VA,6,0,6/29/2004,2004
+1528243,Rick Wenzel,Wimbledon,ND,6,0,3/1/2008,2008
+1423690,McLusky Orchards,La Fayette,NY,6,0,1/5/2005,2005
+1518280,William M. Warren,South Hill,VA,6,0,7/7/2006,2006
+1531132,Tim Ostenrude,Hoople,ND,6,0,5/15/2008,2008
+1448225,Lanni Orchards,Lunenburg,MA,6,0,9/17/2005,2005
+1592846,Jeffery Smith,Mayfield,KY,6,0,8/31/2008,2008
+1697233,Neil S. Jones,Rawlings,VA,6,0,6/23/2011,2011
+1691340,Stamatakis Livestock,Helper,UT,6,0,3/1/2011,2011
+1688036,"Tom's Farm Market and Greenhouses, Inc.",Huntley,IL,6,0,5/13/2011,2011
+1641403,S. Arnold & Co LLC,Southwick,MA,6,0,8/26/2010,2010
+1620908,Danny Stewart,Somerset,KY,6,0,7/28/2009,2009
+1697234,Timothy D. Fajna,Emporia,VA,6,0,6/26/2011,2011
+1697224,W & A Farms,Lawrenceville,VA,6,0,6/19/2011,2011
+1417649,VAGA - Eldon Painter Farm,South Boston,VA,6,0,4/6/2005,2005
+1449164,Michael S. Adkins,Chatham,VA,6,0,6/29/2004,2004
+1447769,Wood Farms,Lexington,NC,6,0,1/1/2006,2006
+1585919,R & C Farms,Shelley,ID,6,0,6/16/2008,2008
+1545080,Garland A. Comer,Vernon Hill,VA,6,0,6/24/2007,2007
+1586786,Samuel D. Piercy,South Hill,VA,6,0,9/28/2008,2008
+1582920,Gripshover Farm,Crittenden,KY,6,0,8/7/2008,2008
+1397243,Mitchell Clark Stables,Danville,KY,6,0,5/18/2003,2003
+1411311,David T. Ingram,Keeling,VA,7,0,4/30/2005,2005
+1151517,Del Monte,Helena,GA,7,0,4/13/2001,2001
+1622146,Neil LeJeune & Paul LeJeune,Eunice,LA,7,0,6/28/2009,2009
+1621426,L. Patton Alderson,South Boston,VA,7,0,7/30/2009,2009
+1624849,Darnell Farms,Woodlawn,TN,7,0,9/16/2009,2009
+1623789,McNeill Labor Management,Belle Glade,FL,7,0,7/27/2009,2009
+1369678,Novak Farms,Lankin,ND,7,0,8/1/2003,2003
+1585908,"Rawl, Walter P. and Sons, Inc.",Pelion,SC,7,0,11/19/2009,2009
+1586787,Engel Family Farms,Hanover,VA,7,0,8/30/2008,2008
+1591403,Whitbeck Investments Inc.,Vernal,UT,7,0,4/21/2009,2009
+1578798,Warren J. Rutledge,Red Oak,VA,7,0,5/19/2008,2008
+1554772,H&M Landscaping Inc,Newbury,OH,7,0,10/28/2007,2007
+1669852,Charles Tackett II,Georgetown,KY,7,0,9/5/2010,2010
+1659110,"W. C. Lanie & Sons, Inc, White Star Farm",Jeanerette,LA,7,0,8/9/2010,2010
+1655937,"Newman Tobacco Company, LLC",Philpot,KY,7,0,6/15/2010,2010
+1654360,"Ingalls Honey, Inc.",Valliant,OK,7,0,8/20/2010,2010
+1642289,Troy & Craig West Farms,Mamou,LA,7,0,6/22/2010,2010
+1615360,"Atchley, Clen",Ashton,ID,7,0,7/22/2009,2009
+1523565,Bill Robinson,Vernal,UT,7,0,5/2/2007,2007
+1522285,Springtown Farmers Collective,New Paltz,NY,7,0,1/1/2007,2007
+1504043,Joe Wright,Harned,KY,7,0,1/31/2006,2006
+1496884,Parker Farms #2 Hsg. Site,Vardaman,MS,7,0,5/10/2007,2007
+1488304,Lawson Farms,Hartsville,SC,7,0,5/1/2007,2007
+1487939,South Camp - Flamm Migrant Labor Camp,Cobden,IL,7,0,7/30/2007,2007
+1487938,North Camp - Flamm Migrant Labor Camp,Cobden,IL,7,0,7/30/2007,2007
+1659288,Plummer Orchards LLC,Gasport,NY,7,0,6/26/2010,2010
+1650805,Fox Hill Farm,Enfield,CT,7,0,8/24/2009,2009
+1455572,Pike Farms,Sagaponack,NY,7,0,9/5/2004,2004
+1452993,Stratton Tomatoes and Greenhouse,Rutledge,TN,7,0,1/1/2006,2006
+1448300,Cider Hill Farm,Amesbury,MA,7,0,9/1/2004,2004
+1496323,Thorn Harvesting,Houston,MS,7,0,11/1/2005,2005
+1439586,Sunny Oak Farm,Paris,KY,7,0,7/15/2004,2004
+1450559,Hahn's Farm,Salt Point,NY,7,0,4/1/2005,2005
+1697832,Pedernales Valley Farms,Fredericksburg,TX,7,0,3/15/2012,2012
+1692820,Sink Hole Farms/Pat Sholar,Trenton,KY,7,0,5/31/2011,2011
+1686915,Larry Tucker Farms,Kirksey,KY,7,0,2/20/2011,2011
+1422041,"Lamont Fruit Farm, Inc.",Albion,NY,7,0,9/5/2005,2005
+1397248,"Wilson Nurseries, Inc.",Frankfort,KY,7,0,8/24/2003,2003
+1545085,Layton Powell,Keysville,VA,7,0,6/20/2007,2007
+1484167,Tribble Farms,Nathalie,VA,7,0,7/14/2005,2005
+1580899,Hillview Farms,Princeton,KY,7,0,5/6/2008,2008
+1376188,B & G Landscaping & Sod Farm,Middletown,OH,7,0,3/24/2004,2004
+1446479,Timothy Shelton,Dry Fork,VA,7,0,7/12/2004,2004
+1367676,"Norwich Meadows Farm, LLC",Norwich,NY,7,0,3/21/2004,2004
+1323664,Kram Harvesting,Duke,OK,8,0,3/30/2002,2002
+1589983,Ray Eidson Farm,Cottontown,TN,8,0,8/3/2008,2008
+1620602,Hatch Howard,Woods Cross,UT,8,0,5/29/2009,2009
+1553749,Koop Farm,Nara Visa,NM,8,0,3/1/2009,2009
+1468739,"Overlook Harvesting Company, LLC",Winter Haven,FL,8,0,11/1/2006,2006
+1595615,Charles E. Barnes,Stony Creek,VA,8,0,5/21/2009,2009
+1587096,"Hayden Landscape and Design, Inc.",Bardstown,KY,8,0,5/17/2009,2009
+1555283,Bob Anderson Harvesting,Michigan,ND,8,0,5/1/2009,2009
+1554775,"Sundowner Livestock, Inc.",Southard,OK,8,0,9/1/2008,2008
+1544431,Latiolais Farms of Parks,Breaux Bridge,LA,8,0,7/1/2007,2007
+1532371,Wyatt Farms,Benton,KY,8,0,1/15/2007,2007
+1676805,Sunrise Farms LLC,Osborne,KS,8,0,11/14/2010,2010
+1586741,Historyland Nursery,Warsaw,VA,8,0,9/4/2008,2008
+1581601,Eddie Chapman,Murray,KY,8,0,9/17/2008,2008
+1672202,Star Farms LLC,Beloit,KS,8,0,11/14/2010,2010
+1667327,"Garden Time, Inc.",Queensbury,NY,8,0,9/5/2010,2010
+1674355,Severts Tree Farm,Elk Creek,VA,8,0,11/12/2010,2010
+1656085,Gary Berringrton Ranch,Wellington,NV,8,0,5/15/2012,2012
+1652937,Alstede Farms LLC,Chester,NJ,8,0,3/19/2012,2012
+1652060,"Johnnie Darrell Tyndall, AGER",Deep Run,NC,8,0,5/3/2010,2010
+1535863,"Guthrie Nursery, Inc.",Lynchburg,VA,8,0,1/31/2007,2007
+1527929,Bemis Gin & Warehouse Co. Inc.,Jackson,TN,8,0,11/10/2006,2006
+1527863,Schreibers Orchards,Milton,NY,8,0,1/1/2007,2007
+1526605,Dolinsky Brothers Nurseries,Weatherly,PA,8,0,10/2/2006,2006
+1522286,"Kellys Greenhouses, Inc.",Kerhonkson,NY,8,0,1/1/2007,2007
+1521476,"Arledge Hay Company, Inc.",Queen Creek,AZ,8,0,4/1/2008,2008
+1510032,Garner Produce,Warsaw,VA,8,0,5/26/2006,2006
+1499062,"Old Church Sod, LLC",New Kent,VA,8,0,5/1/2006,2006
+1496345,Ernst Conservation Seeds,Meadville,PA,8,0,2/16/2007,2007
+1494441,"Tassone Farms, Inc.",Cicero,NY,8,0,10/4/2005,2005
+1493429,Schichtel's Nursery,Orchard Park,NY,8,0,4/28/2007,2007
+1485617,Salmon Falls Nursery & Landscaping,Berwick,ME,8,0,7/24/2005,2005
+1470782,Gallrein Farms,Shelbyville,KY,8,0,3/15/2005,2005
+1458407,Misty Knoll Farm,New Haven,VT,8,0,11/28/2004,2004
+1658004,Devereux W. Rawlings,Woodlawn,TN,8,0,6/3/2010,2010
+1447783,Arnold D. Smith,Roseboro,NC,8,0,1/1/2006,2006
+1448177,Russell Orchards,Ipswich,MA,8,0,7/29/2004,2004
+1437844,Worms Turf & Trees,Murray,KY,8,0,3/30/2004,2004
+1484163,Thomas C. Hudson,Alton,VA,8,0,7/17/2005,2005
+1694455,Bloomin Haus,Holtsville,NY,8,0,7/1/2011,2011
+1513762,"Plummer, Courtney",Waterport,NY,8,0,4/1/2008,2008
+1602448,Rulfs Orchard,Peru,NY,8,0,7/28/2008,2008
+1580897,Jackie Carson,Murray,KY,8,0,8/25/2008,2008
+1563605,J & J Hardesty Farms,Guston,KY,8,0,12/2/2007,2007
+1580898,"CDL Tobacco, LLC",Benton,KY,8,0,1/29/2009,2009
+1410840,D. W. Rawlings,Woodlawn,TN,8,0,7/8/2005,2005
+1484146,Gary L. Reynolds,Penhook,VA,8,0,7/10/2005,2005
+1446422,"C. D. Bryant, III",Blairs,VA,8,0,7/10/2004,2004
+1376313,Jim Gillespie Farms,Rabun Gap,GA,8,0,3/15/2004,2004
+1617984,"James Hill, Jr.",Kinston,NC,9,0,6/11/2009,2009
+1614487,Sunleaf Nursery,Madison,OH,9,0,5/4/2009,2009
+1612458,"Cox Farms, Inc.",Gaston,IN,9,0,3/25/2009,2009
+1627557,Blue Mountain Cattle,Burns,OR,9,0,8/16/2009,2009
+1599526,"Guardrail Enterprises, Inc.",Hartford,SD,9,0,3/2/2010,2010
+1594205,Wallman Farms,Yale,SD,9,0,2/28/2010,2010
+1587346,"Growers Labor Contractors, Inc.",Houston,TX,9,0,3/10/2010,2010
+1520327,"Anchustegui, John",Boise,ID,9,0,1/22/2007,2007
+1373413,"Anderson, Ken",Wendell,ID,9,0,4/16/2004,2004
+1659438,T & L Nursery,Redmond,WA,9,0,6/20/2010,2010
+1551721,Garber Farms,Greenville,OH,9,0,7/15/2007,2007
+1659942,Stephen Ogle Farms,Hawesville,KY,9,0,7/31/2010,2010
+1542833,Don Bok Farm,Pacific,MO,9,0,2/25/2008,2008
+1524283,Wilton Dearald Smith,Pink Hill,NC,9,0,1/1/2008,2008
+1519262,Winn Farms,Elizabeth City,NC,9,0,6/30/2008,2008
+1516175,Swenson Partnership,Wessington Springs,SD,9,0,3/1/2007,2007
+1510042,Manquin Gardens,Mechanicsville,VA,9,0,5/30/2006,2006
+1507691,"Orange Blossom Harvesting, Inc",Arcadia,FL,9,0,11/15/2007,2007
+1498264,David R. Pepper,Hodgenville,KY,9,0,12/15/2005,2005
+1493202,Locust Grove Farm,Kendall,NY,9,0,1/1/2007,2007
+1518282,Seven Springs Farms,Dundas,VA,9,0,7/14/2006,2006
+1650802,Bonnie Plants,Preston,CT,9,0,4/15/2010,2010
+1632747,"Texter Mountain Nursery, Inc.",Reinholds,PA,9,0,10/21/2009,2009
+1457623,David and Jamie Jones,Wingo,KY,9,0,11/22/2004,2004
+409813,Goldaraz Land & Livestock,Rupert,ID,9,0,12/4/1996,1996
+1627029,Pepin Lumber,Coburn Gore,ME,9,0,9/15/2009,2009
+1697060,"Schichtel's Nursery, Inc.",Springville,NY,9,0,7/11/2011,2011
+1357440,Gulf Coast Landscape & Nursery Inc.,Mobile,AL,9,0,5/1/2002,2002
+1657242,Michael Wayne Francies,Elkton,KY,9,0,5/1/2010,2010
+1417091,Jenkinson Nurseries,Long Valley,NJ,9,0,9/3/2004,2004
+1406826,Eldon Painter Farm,Hillsville,VA,9,0,4/6/2005,2005
+1446481,Russell Simpson,Vernon Hill,VA,9,0,7/19/2004,2004
+1410846,Wayne Jackson,Woodlawn,TN,9,0,5/22/2005,2005
+1406859,"Beau Enterprises, Inc.",Ransomville,NY,9,0,4/10/2005,2005
+1621579,Jesse Brown Farms,East Bend,NC,10,0,1/2/2010,2010
+1625001,"Hill Top Farms, Inc",Four Oaks,NC,10,0,11/6/2010,2010
+1459553,Mead Orchards,Tivoli,NY,10,0,4/1/2006,2006
+1594004,Suncraft,Medway,OH,10,0,9/22/2008,2008
+1589471,Altendorf Harvesting,Minto,ND,10,0,1/1/2009,2009
+1585783,Rivergate Ranch,Powderhorn,CO,10,0,6/1/2009,2009
+1581750,The Farm at Miller's Crossing,Hudson,NY,10,0,2/20/2010,2010
+1581633,"Still Waters Catfish Farm, LLC",Monticello,AR,10,0,7/14/2008,2008
+1620242,"KN Turf, Inc. dba Rock Creek Growers",Kimberly,ID,10,0,7/28/2009,2009
+1575777,"Cahoon Farms, Inc.",Wolcott,NY,10,0,8/7/2008,2008
+1556367,Lawson Farms,Hartsville,SC,10,0,4/9/2009,2009
+1554768,Red Wagon Farm,Columbia Station,OH,10,0,9/1/2007,2007
+1551722,"Guess Brothers Ag, Inc.",Jamestown,OH,10,0,7/14/2007,2007
+1532784,Leo Ocanas Farm,Traverse City,MI,10,0,5/1/2008,2008
+1433998,Conleys Nursery & Landscaping,Ruidoso Downs,NM,10,0,3/14/2004,2004
+1523170,Peart Ranch,Randolph,UT,10,0,5/16/2007,2007
+1657389,Edmond Roy & Sons,Jackman,ME,10,0,7/12/2010,2010
+1653230,Mark Lyman Sheep Ranch,Ten Sleep,WY,10,0,8/15/2010,2010
+1671994,Henderson Land and Cattle,Adairville,KY,10,0,4/25/2010,2010
+1667316,George's Market & Nursery LLC,Latham,NY,10,0,9/21/2010,2010
+1446472,Stanley Owen,Blairs,VA,10,0,7/11/2004,2004
+1652870,Maxwell's Farm,Changewater,NJ,10,0,3/15/2012,2012
+1650804,Winding Brook Turf Farm,Wethersfield,CT,10,0,9/18/2009,2009
+1622140,Jose Gonzalez dba Victory Nursery,Oakdale,LA,10,0,6/22/2009,2009
+1597415,Wagner's Harvesting,Mankato,KS,10,0,5/9/2009,2009
+1530983,Koop Harvesting,Hillsboro,KS,10,0,1/1/2008,2008
+1485357,Paul Mazza's Fruit and Vegetables,Colchester,VT,10,0,9/2/2005,2005
+1470784,Hall Sod Company,Shelbyville,KY,10,0,3/20/2005,2005
+1671836,LoveApple Farm,Ghent,NY,10,0,3/1/2011,2011
+1657243,"Jeff Davis Tobacco, LLC",Pembroke,KY,10,0,7/19/2010,2010
+1484512,Edwin (Eddie) Robertson,Axton,VA,10,0,7/16/2005,2005
+1448166,"Honey Pot Orchard, Inc.",Stow,MA,10,0,9/15/2005,2005
+1446432,Michael Farson,Vernon Hill,VA,10,0,7/28/2004,2004
+1446439,J. Dennis Gibson,Chatham,VA,10,0,7/17/2004,2004
+1427222,Randy Jordan,Elkton,KY,10,0,11/30/2003,2003
+1425972,"Moseley's International Gin & Warehouse, Inc.",Abbeville,AL,10,0,11/17/2003,2003
+1697830,Baron's Creek Farms,Fredericksburg,TX,10,0,3/12/2012,2012
+1686121,Landry's Crawfish Farm,Estherwood,LA,10,0,3/27/2011,2011
+1423200,"A. Zimmerman and Son, Inc.",Highland,NY,10,0,11/1/2003,2003
+1515375,Walnridge Farm,Cream Ridge,NJ,10,0,2/23/2007,2007
+1450215,Allen Ragsdale,Java,VA,10,0,7/13/2004,2004
+1555191,Q & H Honey Farm,Elkhorn,NE,10,0,1/1/2009,2009
+1410826,Jerry Kevin Kennedy,Puryear,TN,10,0,4/29/2005,2005
+1446474,John Ragsdale,Java,VA,10,0,7/13/2004,2004
+1622149,"Ronald R. Hebert, Inc.",Jeanerette,LA,11,0,7/21/2009,2009
+1596774,Geissler Tree Farms - Wagner House,Leesport,PA,11,0,10/21/2008,2008
+1598253,Dean P. Brightly Farms,Hamlin,NY,11,0,11/15/2008,2008
+1584179,"Eads, Inc.",Paducah,KY,11,0,2/24/2009,2009
+1506095,James Craig Bair Ranch,Glenwood Springs,CO,11,0,9/4/2006,2006
+1626344,Happy Apple Company,Union,MO,11,0,1/6/2011,2011
+1659158,D & T Crawfish,Abbeville,LA,11,0,6/19/2010,2010
+1654226,Richard Slater,Maddock,ND,11,0,5/1/2010,2010
+1651536,"Depot Market, Incorporated",Courtland,KS,11,0,4/11/2010,2010
+1638190,Dean Gerving Farms,Mandan,ND,11,0,3/21/2010,2010
+1530306,Jacobsen Landsape,Midland Park,NJ,11,0,4/11/2008,2008
+1478172,Hoffman Harvesting Inc.,Bowdle,SD,11,0,4/15/2005,2005
+1485533,Powell Farms,Sutherlin,VA,11,0,7/12/2005,2005
+1460250,Troy's Landscape Supply Co.,Cohoes,NY,11,0,4/7/2006,2006
+1451316,Dollins Farm Partnership,Katy,TX,11,0,9/16/2004,2004
+1433358,Sayler Harvesting,Ashley,ND,11,0,5/13/2005,2005
+1659150,Domingues Farms,Erath,LA,11,0,6/19/2010,2010
+1696398,David Erway,Wilson,NY,11,0,11/6/2011,2011
+1397106,Lee Lancaster Harvesting,Dodge City,KS,11,0,5/10/2004,2004
+1584181,Curtis Farms,La Center,KY,11,0,2/23/2009,2009
+1381677,Espeland Ranches,Fishtail,MT,11,0,6/1/2003,2003
+1617381,"Yates Farm, Inc",Blairs,VA,12,0,5/10/2009,2009
+1621954,Frank Patterson Farms,China Grove,NC,12,0,8/4/2009,2009
+1604605,"Captain Cook Honey, Ltd.",Kealakekua,HI,12,0,4/10/2009,2009
+1620374,Gage Tobacco,Paducah,KY,12,0,7/26/2009,2009
+1591489,Gerald Jones (G & L Ranches),Dillon,MT,12,0,8/1/2008,2008
+1587020,Driscoll Brothers Partnership,American Falls,ID,12,0,9/1/2008,2008
+1580947,"Vegefield, Inc.",Fredericksburg,VA,12,0,3/1/2010,2010
+1554770,TRC Landscape Services Inc,Newbury,OH,12,0,9/6/2007,2007
+1545070,Robert E. Hawthorne,Lunenburg,VA,12,0,6/25/2007,2007
+1452794,Wagner Harvesting,Mankato,KS,12,0,3/11/2006,2006
+1622054,Eckert's,Belleville,IL,12,0,1/20/2011,2011
+1667323,Bowman Orchards LLC,Rexford,NY,12,0,1/3/2011,2011
+1659157,Kurt Goebel Farms,Elton,LA,12,0,6/21/2010,2010
+1642015,"SKB Farms, LLC",Estherwood,LA,12,0,4/14/2010,2010
+1620458,Bonnie Plants,Union Springs,AL,12,0,6/30/2009,2009
+1526181,Kurt Weiss,Center Moriches,NY,12,0,9/21/2006,2006
+1518043,Cotton Hope Farms,Monetta,SC,12,0,1/1/2007,2007
+1517350,The Farm at Green Village,Green Village,NJ,12,0,7/25/2006,2006
+1496616,Schultz Harvesting,Buhler,KS,12,0,1/1/2007,2007
+1489652,"Trust Nursery, Inc.",Pulaski,NY,12,0,8/29/2005,2005
+1484170,Billy E. Ferrell,Wylliesburg,VA,12,0,7/13/2005,2005
+1461746,Mikkelsen Farms,Devils Lake,ND,12,0,3/1/2005,2005
+1617652,Jerry Jones Farm,Snow Hill,NC,12,0,7/15/2009,2009
+1653314,"Paul Mazza's Fruit and Vegetable Stand, Inc.",Colchester,VT,12,0,6/6/2010,2010
+1449530,Valley Shepherd Creamery,Long Valley,NJ,12,0,4/15/2006,2006
+1445139,Judy Best,Taylors,SC,12,0,2/28/2006,2006
+1428134,Brenda Hunt,Fountain Run,KY,12,0,12/13/2003,2003
+1427224,Everett Chase,Glasgow,KY,12,0,12/3/2003,2003
+1703437,Loridale  Farm,Dewitt,VA,12,0,8/13/2011,2011
+1418744,Barton Nursery,Edison,NJ,12,0,3/1/2005,2005
+1418093,Sheep Improvement Company,Rushford,MN,12,0,1/15/2005,2005
+1495579,"Guerry, Inc.",Castleford,ID,12,0,10/24/2006,2006
+1484152,Hilton Hudson,Alton,VA,12,0,7/15/2005,2005
+1358221,Liberty Company,Gallatin,TN,12,0,8/10/2002,2002
+1382790,Daly Farm Partnership,Pukwana,SD,12,0,5/1/2002,2002
+1613725,Bobby G. Holloway,Gracey,KY,13,0,4/15/2009,2009
+1591163,Riverbend Ranch,Dillon,MT,13,0,8/6/2008,2008
+1519715,"Mata Trucking Company, Inc.",Edinburg,TX,13,0,6/24/2008,2008
+1530304,Delgado's Landscaping,Passaic,NJ,13,0,4/26/2008,2008
+1518279,"Parrish Farms, Inc.",Dundas,VA,13,0,7/9/2006,2006
+1667573,"Dobbins, HH & Sons LLC",Lyndonville,NY,13,0,1/20/2012,2012
+1661968,Shelby and Jessie Emmick Farms,Lewisport,KY,13,0,7/27/2010,2010
+1659134,G2Z Planting,Simmesport,LA,13,0,3/1/2011,2011
+1375775,Steve Holder,Durham,NC,13,0,10/11/2002,2002
+1654654,Vern Stratton Farms,Orem,UT,13,0,4/1/2011,2011
+1614829,Joe Chapman,Alvaton,KY,13,0,7/28/2009,2009
+1569610,"Bryant Orchards, Inc.",Fincastle,VA,13,0,7/24/2008,2008
+1518914,Jackson Farming Company,Autryville,NC,13,0,1/1/2008,2008
+1517858,"P A Farm Labor Services, Inc.",Miami,FL,13,0,4/25/2008,2008
+1499978,"Mitzner Brothers, Inc",Buhler,KS,13,0,1/1/2007,2007
+1489794,Spear Farms,Nobleboro,ME,13,0,9/9/2005,2005
+1461864,Bremo Trees,Bremo Bluff,VA,13,0,11/13/2004,2004
+1445244,G & G Farms Inc.,Williamson,NY,13,0,8/25/2006,2006
+1626837,"K & J Farms, Inc.",Houston,MS,13,0,8/20/2009,2009
+1671997,Keith Gipson dba Gipson Farms,Auburn,KY,13,0,4/15/2010,2010
+1364572,Cedar Spring Farm,Essex Junction,VT,13,0,11/1/2003,2003
+1632194,"Marker-Miller Orchard, LP",Winchester,VA,14,0,10/7/2009,2009
+1622121,Steve Park Apiaries,Palo Cedro,CA,14,0,6/30/2009,2009
+1585827,"Watkins Nurseries, Inc.",Midlothian,VA,14,0,7/20/2008,2008
+1594002,Stonelick Tree Farm,Goshen,OH,14,0,10/4/2008,2008
+1406837,Chesterfield Berry Farm,Moseley,VA,14,0,7/13/2003,2003
+1622148,"R & Z Farms, Partnership",Eunice,LA,14,0,6/28/2009,2009
+1648340,Flatwoods Harvesting,Felda,FL,14,0,1/2/2011,2011
+1631161,Cooper Creek Farm,Woodlawn,TN,14,0,9/29/2009,2009
+1580162,Agrecol,Evansville,WI,14,0,6/18/2008,2008
+1586743,Garner's Produce,Warsaw,VA,14,0,8/6/2008,2008
+1553731,Alfredo LDC,Armonk,NY,14,0,9/1/2007,2007
+1550000,"Gaia Herbs, Inc.",Brevard,NC,14,0,10/1/2007,2007
+1549252,Springs Farm,Fort Mill,SC,14,0,3/1/2008,2008
+1519439,DePiero's Farm,Montvale,NJ,14,0,1/1/2008,2008
+1553815,Flat Hill Orchard,Lunenburg,MA,14,0,7/7/2007,2007
+1526608,Brian Campbell Farm,Berwick,PA,14,0,10/12/2006,2006
+1485120,"Oliver Farms, Inc.",Macomb,MI,14,0,10/21/2005,2005
+1484165,David A. Williams,Blairs,VA,14,0,7/9/2005,2005
+1469563,Olguin Fructuoso FLC,Arcadia,FL,14,0,12/23/2006,2006
+1631804,Harlow Farm,Westminster,VT,14,0,10/5/2009,2009
+1583365,"3 Oaks Farms & Nurseries, LLC",Meridian,MS,14,0,6/8/2008,2008
+1449764,Jenkinson Nurseries,Long Valley,NJ,14,0,3/27/2006,2006
+1437916,P & H Forestry,Hermitage,AR,14,0,1/4/2005,2005
+1493192,Pettit Farms,Medina,NY,14,0,11/12/2005,2005
+1653310,Kenny Powell,Emporia,VA,14,0,6/5/2010,2010
+1697834,Zenner Orchard,Fredericksburg,TX,14,0,1/31/2012,2012
+1697238,Circle W Farms,South Hill,VA,14,0,6/22/2011,2011
+1621424,Leonard R. Griles,Randolph,VA,14,0,7/14/2009,2009
+1357512,Coach's Cedar Creek Farm,Lucedale,MS,14,0,6/16/2002,2002
+1626613,"Maynard Farms, Inc.",Ulster Park,NY,14,0,1/1/2010,2010
+1621765,"Martinelli Vineyards Management, Inc",Windsor,CA,15,0,5/9/2011,2011
+1612746,"DeSoto Fruit and Harvesting, Inc.",Arcadia,FL,15,0,9/6/2009,2009
+1627504,Tower Family LLP,Youngstown,NY,15,0,9/13/2009,2009
+1595116,McKee Whitaker Farm/ Chad Whitaker,Cynthiana,KY,15,0,10/22/2008,2008
+1656253,"Oasis Harvesting, Inc.",Lake Placid,FL,15,0,5/23/2010,2010
+1586788,Amy's Garden,Quinton,VA,15,0,8/7/2008,2008
+1372345,"Global Horizons, Inc., FLC",Preston,MD,15,0,6/21/2004,2004
+1409205,Atkins Farms,Cameron,NC,15,0,1/1/2005,2005
+1374374,Barton Nurseries,Edison,NJ,15,0,2/2/2003,2003
+1652063,"Joe Snow, AGER",State Road,NC,15,0,3/29/2010,2010
+1657245,Barry Wright Farms,Lewisburg,KY,15,0,4/5/2010,2010
+1655705,Jil Farms,Gould,AR,15,0,4/3/2000,2000
+1545050,Sandy Creek Farms,Jetersville,VA,15,0,6/6/2007,2007
+1517303,Labor Camp 505,Johnston,SC,15,0,6/11/2008,2008
+1515300,Michael W. Roberts Farm,Eminence,KY,15,0,6/6/2006,2006
+1631805,Misty Knoll Farm,New Haven,VT,15,0,11/4/2009,2009
+1454527,Perez Labor Contractors,Columbia,TN,15,0,6/8/2006,2006
+1445242,"Bloom's Relax Lawnscaping, Inc.",Youngstown,NY,15,0,6/17/2004,2004
+1671996,David A. Cartmill,Woodburn,KY,15,0,11/28/2010,2010
+1528038,Russell Spradlin,Glasgow,KY,15,0,11/8/2006,2006
+1550085,Tom Maneotis,Oak Creek,CO,15,0,1/26/2009,2009
+1622133,C&M Newton Farms,Batchelor,LA,15,0,8/16/2009,2009
+1631810,"Lakeview Orchards, Inc.",Burt,NY,16,0,10/9/2009,2009
+1616666,Roberts Ranch,Cokeville,WY,16,0,7/29/2009,2009
+1583367,"Needmore Fisheries, LLC",Glen Allan,MS,16,0,11/8/2008,2008
+1562709,Mandujano Farms,Watsonville,CA,16,0,3/1/2009,2009
+1554049,Knapp Farms,Rocky Ford,CO,16,0,7/27/2008,2008
+1294755,William Farris,Great Bend,KS,16,0,5/15/2003,2003
+1457626,John Camp Farm,Trenton,KY,16,0,11/17/2004,2004
+1651356,John E. Naegelin III,Devine,TX,16,0,2/1/2011,2011
+1660385,Glen Gerving Farms,Glen Ullin,ND,16,0,3/22/2010,2010
+1657252,Timathy E. Sapp dba Sapp Farms,Greenville,KY,16,0,4/1/2010,2010
+1632759,Sunhill Orchard  Camp#1,Aspers,PA,16,0,5/22/2010,2010
+1544089,"Star Nursery, Incorporated",Belle Chasse,LA,16,0,10/11/2007,2007
+1535009,Kona Queen Hawaii Inc,Captain Cook,HI,16,0,10/15/2007,2007
+1524310,"WH Walker & Son, Inc",Clintondale,NY,16,0,11/9/2007,2007
+1494619,Delta Egg Farm,Salt Lake City,UT,16,0,11/9/2005,2005
+1493195,J & R Fruit Farms,Hamlin,NY,16,0,8/15/2007,2007
+1446762,Reese Farms,Scottsburg,VA,16,0,7/14/2004,2004
+1697223,"Tobacco Road Farms, Inc.",Dolphin,VA,16,0,6/22/2011,2011
+1624498,"Dayton Valley Turf, Inc.",Reno,NV,16,0,1/1/2011,2011
+1489683,Lowe Farms,Murray,KY,16,0,4/28/2006,2006
+1375769,David & Richard Pope,Knightdale,NC,16,0,4/18/2004,2004
+1414688,Flippen Hillbilly  Barn,Troy,TN,16,0,3/4/2005,2005
+1397245,Metcalfe Wholesale Florist,Hopkinsville,KY,16,0,5/3/2003,2003
+1381318,Brian Tofteland,Antler,ND,16,0,3/20/2004,2004
+1325984,Heartland Incorporated Systems,Fargo,ND,17,0,5/16/2003,2003
+1597764,Allred Land & Livestock,Fountain Green,UT,17,0,10/27/2008,2008
+1590964,J-Six Enterprises,Seneca,KS,17,0,9/14/2008,2008
+1615309,Cunningham Orchard,Palisade,CO,17,0,4/12/2009,2009
+1558691,Ameele Farms,Walworth,NY,17,0,9/3/2009,2009
+1486778,"Harris Farms, Inc",Roper,NC,17,0,1/1/2007,2007
+1561823,David L. Williams,Richmond,KY,17,0,12/18/2007,2007
+1416991,"Owen Farms, Inc.",Blairs,VA,17,0,4/15/2004,2004
+1645469,"Darley Stud Management, LLC",Lexington,KY,17,0,4/17/2010,2010
+1659128,"Live Oak Gardens, Ltd",New Iberia,LA,17,0,8/7/2010,2010
+1526614,Marakovits Family LLC-Laury's Station Camp,Walnutport,PA,17,0,10/17/2006,2006
+1518285,Virginia Lawn & Landscape,Williamsburg,VA,17,0,8/26/2006,2006
+1475794,Mount Juliet Vineyards,Crozet,VA,17,0,5/8/2005,2005
+1671988,Walker Brothers,Adairville,KY,17,0,11/27/2010,2010
+1655860,Eddie Dyer,Harned,KY,17,0,7/13/2010,2010
+1390149,Pettiet Harvesting,Tulia,TX,17,0,5/7/2004,2004
+1555193,"Roeder Honey Farms, Inc.",Dixon,NE,17,0,2/11/2009,2009
+1485921,Grady Farming,Faison,NC,18,0,1/1/2007,2007
+1622156,"Halbert's Nursery, LLC",Forest Hill,LA,18,0,6/24/2009,2009
+1611594,The Farm at Green Village,Green Village,NJ,18,0,3/9/2011,2011
+1599317,Pioneer Fruit Farms,Marlboro,NY,18,0,1/1/2009,2009
+1612654,Perry Apiary dba,Arcadia,FL,18,0,1/1/2010,2010
+1518292,Keith Brankley,Skipwith,VA,18,0,7/22/2006,2006
+1518281,"SJB Farms, Inc.",Dundas,VA,18,0,7/12/2006,2006
+1668265,Donato Farms Inc.,Modena,NY,18,0,11/1/2010,2010
+1682904,"Ramos, Isabel C. - FLC",Sebring,FL,18,0,11/13/2012,2012
+1655414,West Farms,Eunice,LA,18,0,5/2/2010,2010
+1651942,"Terra Farms, Inc",Harrisonville,MO,18,0,5/9/2010,2010
+1610793,Abrams Nursery,Pewee Valley,KY,18,0,6/9/2009,2009
+1432913,Dalsted Bros. Harvesting,Langdon,ND,18,0,4/15/2005,2005
+1458508,Appledale Orchards,Mexico,NY,18,0,9/30/2004,2004
+1697835,ITZ Garden,Fredericksburg,TX,18,0,3/29/2012,2012
+1207568,Allison Creek Sheep Company,Riggins,ID,18,0,1/16/2000,2000
+1622142,"Loreauville Harvesting, LLC",Loreauville,LA,19,0,7/19/2009,2009
+1591372,Forrence Orchards,Peru,NY,19,0,3/21/2010,2010
+1562478,PK Edmondson Farm,Vardaman,MS,19,0,10/28/2008,2008
+1579713,Merri L. Siddons,Fort Worth,TX,19,0,6/4/2008,2008
+1653490,Grace Brothers Landscaping,North Royalton,OH,19,0,4/24/2010,2010
+1644511,Paul Schexnayder Farms,New Roads,LA,19,0,4/19/2010,2010
+1530408,Lucas Vineyards,Interlaken,NY,19,0,1/1/2008,2008
+1517141,Barton Nursery,Edison,NJ,19,0,2/20/2008,2008
+1496234,King Nursery,Greensburg,PA,19,0,11/19/2005,2005
+1489648,Reeves Farms,Baldwinsville,NY,19,0,8/11/2005,2005
+1470498,Monetta Peach Packers,Monetta,SC,19,0,1/8/2007,2007
+1461168,Holden Brothers Produce,Shallotte,NC,19,0,1/1/2006,2006
+1653304,"S. Mazza Farmstand and Greenhouses, Inc.",Colchester,VT,19,0,5/17/2010,2010
+1579674,Thurlow Farms,Leonardville,KS,19,0,5/3/2008,2008
+1656292,Franke's Nursery LLC,Marion,NY,19,0,6/11/2010,2010
+1652170,"Bonnie Plants Farm - Old Diz Nursery, Inc",Troy,AL,19,0,12/15/2009,2009
+1632757,Sunhill Orchard Camp #2,Aspers,PA,19,0,5/22/2010,2010
+1615508,Allen Livestock,Hotchkiss,CO,20,0,4/14/2009,2009
+1621428,Giles Tobacco Farms,Chatham,VA,20,0,7/10/2009,2009
+1571765,Evin's Mill Nursery,Smithville,TN,20,0,2/22/2008,2008
+1584399,Voelpel Farms,Newfane,NY,20,0,9/20/2008,2008
+1531943,"Hamilton Growers, Incorporated",Norman Park,GA,20,0,3/25/2008,2008
+1554374,S.W.A. Tobacco,Southwick,MA,20,0,8/1/2007,2007
+1648187,Greenfield Applications,Lexington,NE,20,0,10/23/2011,2011
+1632870,Hart Land and Cattle/Hart to Hart,Chaseley,ND,20,0,12/13/2010,2010
+1657234,Carter's Tobacco Farm,Mayfield,KY,20,0,4/19/2010,2010
+1655620,Gerten Greenhouses,Inver Grove Heights,MN,20,0,7/12/2010,2010
+1592198,Amistad Dairy,Clovis,NM,20,0,3/17/2009,2009
+1495936,Hart Tree Farm,Grassy Creek,NC,20,0,4/11/2007,2007
+1617847,Coosaw AG Housing Unit #1,Fairfax,SC,20,0,4/14/2011,2011
+1469155,Diamond X Ranch,Donnelly,ID,20,0,9/1/2005,2005
+1446431,"Ray Emerson, Jr.",Dry Fork,VA,20,0,7/21/2004,2004
+1427226,Daryl T. Templeman,Elkton,KY,20,0,12/1/2003,2003
+1659978,Mesa View Orchard,Palisade,CO,20,0,7/17/2010,2010
+1632201,"Westwood Farm, Inc.",Berryville,VA,20,0,10/4/2009,2009
+1381707,"Angel Plants, Inc.",Dix Hills,NY,20,0,12/30/2002,2002
+1684523,"M.O.D., LLC",Lake Placid,FL,20,0,2/6/2011,2011
+1581631,Spring Creek Nursery,Tulsa,OK,21,0,8/6/2008,2008
+1558491,Zach Mason Farms,Fowler,CO,21,0,6/22/2008,2008
+1590754,A & F Sheep Company,Bakersfield,CA,21,0,8/10/2009,2009
+1551431,Vienna Tree Farm,Vienna,OH,21,0,8/18/2007,2007
+1550123,Pine Hill Church Rd.,Johnston,SC,21,0,6/23/2009,2009
+1621003,Tommy Broughton,Scottsville,KY,21,0,7/29/2009,2009
+1667023,Mulnite Farms,Broad Brook,CT,21,0,8/21/2010,2010
+1409695,Gene Witt Farms,Shelbyville,KY,21,0,7/14/2003,2003
+1405190,Tidwell's Berry Farm,Spring City,TN,21,0,3/25/2005,2005
+1587005,"Pavkov, Joe",Gooding,ID,21,0,8/1/2008,2008
+1665193,"Mead Orchards, LLC",Tivoli,NY,21,0,3/1/2011,2011
+1665196,Pavero Cold Storage,Highland,NY,21,0,8/1/2011,2011
+1604267,Ornelas Harvesting Inc.,Reidsville,GA,21,0,12/18/2008,2008
+1529209,Steve Edwards Farm,Greensburg,KY,21,0,12/4/2006,2006
+1475797,"Grelen Nursery, Inc.",Orange,VA,21,0,5/5/2005,2005
+1463213,Jonathan Bellamy,Park City,KY,21,0,12/6/2004,2004
+1548437,Frick Labor Camp,Monetta,SC,21,0,1/7/2009,2009
+1480934,Markowski Farms,West Suffield,CT,21,0,6/14/2005,2005
+1628999,"A Team Harvesting 2, LLC",Logan,KS,21,0,8/23/2009,2009
+1526950,3-R Orchards,Wapato,WA,22,0,5/6/2008,2008
+1610796,"Trends, Inc.",Bardstown,KY,22,0,8/4/2010,2010
+1613154,Hansen Farms LLC,Stanley,NY,22,0,5/18/2009,2009
+1615868,"Browning's Honey Company, Inc.",Idaho Falls,ID,22,0,4/21/2009,2009
+1609513,Shatley Farms LLC,Jefferson,NC,22,0,1/3/2010,2010
+1622230,David Feagin,Murray,KY,22,0,4/15/2009,2009
+1588042,Markowski Farms,West Suffield,CT,22,0,8/10/2008,2008
+1520861,Phyto Ecology,Ridgely,MD,22,0,3/10/2008,2008
+1461249,Black Falcon Enterprises,Pratt,KS,22,0,7/15/2006,2006
+1513764,Select Tree Farms Inc.,West Valley,NY,22,0,2/4/2008,2008
+1495626,"Timber Ridge Fruit Farm, LLC, AGER",Gore,VA,22,0,10/28/2005,2005
+1437384,Aspen Valley Inc,Milbank,SD,22,0,3/26/2005,2005
+1642125,"Olguin, Alejandro - FLC",Nocatee,FL,22,0,11/21/2011,2011
+1555135,Jones Farms,Georgetown,OH,22,0,8/24/2007,2007
+1654953,Native Seed Company,Lehi,UT,22,0,6/28/2010,2010
+1414455,Harmony Valley Farm,Viroqua,WI,22,0,9/15/2003,2003
+1521580,Todd Webb,Bowling Green,KY,22,0,8/6/2007,2007
+1391716,George Love,Layton,UT,22,0,2/18/2003,2003
+1493199,"Zingler Jr., Rudy Farms",Kendall,NY,22,0,1/1/2007,2007
+1308864,"Zelenka Nursery, Inc.",Grand Haven,MI,23,0,8/30/2003,2003
+1526948,Robert Valicoff Jr. Ranch,Wapato,WA,23,0,5/6/2008,2008
+1560910,Cal Farms,Madras,OR,23,0,6/1/2009,2009
+1575773,"Wafler Farms, Inc.",Wolcott,NY,23,0,6/6/2008,2008
+1663700,"Joel Boseman, AGER",Battleboro,NC,23,0,8/9/2011,2011
+1542192,Clint Hayden,Bardstown,KY,23,0,4/8/2007,2007
+1528145,Hunters Run Farm,Neptune,NJ,23,0,10/2/2008,2008
+1478005,N Ornelas Harvesting,Reidsville,GA,23,0,11/30/2006,2006
+1487481,"Flowers Brothers Farms, LLC",Ty Ty,GA,23,0,8/23/2005,2005
+1639033,"Barajas, Carlos  FLC d.b.a. Red Harvest",Lake Placid,FL,23,0,12/5/2011,2011
+1629501,Wayne Moss d/b/a Norton Creek Farms,Franklin,NC,23,0,1/8/2011,2011
+1656281,"Friedrich Enterprises, Inc.",Judsonia,AR,23,0,7/19/2010,2010
+1529237,Cundiff Farms,Cadiz,KY,23,0,12/10/2006,2006
+1314222,Star Brite Farms ( John Kruger),Hardwick Township,NJ,24,0,5/1/2003,2003
+1372213,Van Elliott,Creedmoor,NC,24,0,4/1/2003,2003
+1302517,Beidler Brothers Dairy,Orient,SD,24,0,1/1/2003,2003
+1623887,Dwain Bell,Murray,KY,24,0,7/20/2009,2009
+1622231,Mahan Farms,Paris,KY,24,0,7/12/2009,2009
+1622232,Steve Ernstberger,Murray,KY,24,0,7/20/2009,2009
+1592084,Amy and Gerry's Hepworth Farm,Milton,NY,24,0,1/1/2009,2009
+1517992,Sunrise Orchards,Rio Oso,CA,24,0,2/1/2008,2008
+1656113,Rouse Ivey,Mount Olive,NC,24,0,3/10/2011,2011
+1517299,Labor Camp 303,Johnston,SC,24,0,6/17/2008,2008
+1465757,Loomer Brothers,Fergus Falls,MN,24,0,5/24/2006,2006
+1633399,Farm Pak - Barnes Farming,Spring Hope,NC,24,0,1/1/2010,2010
+1418463,C + E Tobacco,Southwick,MA,24,0,9/13/2003,2003
+1358225,J.B. Donoho & Sons Nursery,Portland,TN,24,0,7/27/2002,2002
+1328281,Great Bend Co Op,Great Bend,KS,25,0,7/1/2003,2003
+1525019,Ricker Hill Orchards,Turner,ME,25,0,10/25/2006,2006
+1622139,"Jordan Newton, Inc.",Bunkie,LA,25,0,6/28/2009,2009
+1580866,"Highview Valley Farms, Inc.",Raywick,KY,25,0,5/9/2008,2008
+1613156,"Roberts Circle R Fruit Farms, Inc.",Kent,NY,25,0,11/7/2009,2009
+1579667,"Keesecker Agri Business, Incorporated",Washington,KS,25,0,5/6/2008,2008
+1523881,Fullmer Cattle Company,Muleshoe,TX,25,0,1/1/2008,2008
+1381059,Kent Perkins,Claremont,SD,25,0,5/15/2004,2004
+1654147,Carlson Orchards,Harvard,MA,25,0,6/26/2010,2010
+1525997,Domiano Farms,Independence,LA,25,0,1/1/2008,2008
+1517296,Gene Forrest Camp,Ward,SC,25,0,6/10/2008,2008
+1510015,"Bell Nursery USA, LLC - Virginia Division",Montpelier,VA,25,0,1/4/2008,2008
+1482654,Robey Farm,Adairville,KY,25,0,6/26/2005,2005
+1669086,Fruit Hill Orchard,Winchester,VA,26,0,8/28/2012,2012
+1513766,"Intergrow Greenhouses, Inc.",Albion,NY,26,0,8/1/2007,2007
+1642128,"Olguin, Moises FLC",Arcadia,FL,26,0,11/21/2011,2011
+1587243,Triple C Farms,Chesnee,SC,27,0,7/20/2008,2008
+1525920,Wayne Moss d/b/a Norton Creek Farms,Cashiers,NC,27,0,8/25/2007,2007
+1463369,"Virginia Growers, Inc",Montpelier,VA,27,0,12/11/2004,2004
+1642002,"Fox Enterprises of Louisiana, LLC",Forest Hill,LA,27,0,2/23/2010,2010
+1373355,John Harold Enterprises dba Tuxedo Corn,Olathe,CO,27,0,7/1/2004,2004
+1596780,Stoudt's Fruit Farm,Hamburg,PA,28,0,10/15/2008,2008
+1616888,Holubec Farms,Midkiff,TX,28,0,7/6/2009,2009
+1554767,Davis Tree Farm and Nursery,Valley City,OH,28,0,8/1/2007,2007
+1443855,Williams Farms,Rolla,KS,28,0,4/6/2005,2005
+1562978,"Porpiglia Farms, Inc.",Marlboro,NY,28,0,10/30/2007,2007
+1559733,Apple Acres. LLC,La Fayette,NY,28,0,3/16/2009,2009
+1485307,Robert Jenkinson Nurseries,Long Valley,NJ,28,0,10/1/2006,2006
+1615470,Magnolia Farm Association,Mc Neil,AR,28,0,3/1/2010,2010
+1526977,"Beak & Skiff Apple Farms, Inc.",La Fayette,NY,28,0,1/6/2008,2008
+1655402,Dahlia G. Guerrero (FLC),Vidalia,GA,28,0,4/6/2012,2012
+1386300,Jaime Schemper,Holdrege,NE,28,0,5/1/2003,2003
+1650803,Markowski Farms,West Suffield,CT,28,0,10/3/2009,2009
+1376580,Jones & Church Farms,Unicoi,TN,28,0,4/15/2004,2004
+1175685,Southern Light Farms,Clarksville,TN,29,0,3/14/2001,2001
+1591503,"Emmi & Sons, Inc.",Baldwinsville,NY,29,0,8/14/2008,2008
+1620007,Shawnee Farm,Harrodsburg,KY,29,0,10/29/2009,2009
+1569334,Morrill Hay Company,Larned,KS,29,0,2/20/2008,2008
+1555648,Dragoon Mt. Vinyard,Willcox,AZ,29,0,6/1/2008,2008
+1541487,"Olguin, Moises (H-2A)",Arcadia,FL,29,0,11/29/2008,2008
+1513449,Gary Craft and Stephanie Ludwig d/b/a,Macedon,NY,29,0,9/25/2006,2006
+1414184,Kevin Bryl Harvesting,Devils Lake,ND,29,0,4/15/2004,2004
+1372215,Donnie Englebright,Oxford,NC,30,0,4/1/2003,2003
+1590020,Monte Vallot's Farm,Abbeville,LA,30,0,7/31/2008,2008
+1612750,"Mity Mole, Inc.",Arcadia,FL,30,0,11/22/2009,2009
+1645467,"Lane's End Stallions, Inc.",Versailles,KY,30,0,5/5/2010,2010
+1635294,Great Lakes Glads,Bronson,MI,30,0,6/13/2010,2010
+1489662,Sartorie Farms,Billings,MT,30,0,5/6/2006,2006
+1517583,Phillips Farm,Milford,NJ,30,0,12/1/2007,2007
+1401649,"Ochoa, Jesus B FLC",Lake Placid,FL,30,0,11/1/2004,2004
+1642000,"Landry-Poche' Strawberry Farm, Inc.",Holden,LA,30,0,1/22/2010,2010
+1415165,Lanni Orchards,Lunenburg,MA,30,0,9/13/2003,2003
+1518891,Lakeside Camp #2,Fairfax,SC,30,0,2/1/2008,2008
+1622416,Russelburg Farms,Fancy Farm,KY,30,0,8/11/2009,2009
+1573223,Buster's Tree Farm - AGER,Amarillo,TX,31,0,10/23/2008,2008
+1499974,"Global Horizons, Inc.",Los Angeles,CA,31,0,11/9/2005,2005
+1517302,Labor Camp 404,Johnston,SC,31,0,6/11/2008,2008
+1615548,Pacco Irrigation and Farm Supply Company Inc.,Turrell,AR,31,0,7/26/2007,2007
+1618698,Cramer's Posie Patch,Mount Joy,PA,32,0,6/1/2009,2009
+1571584,Center Hill Nursery,Smithville,TN,32,0,2/27/2008,2008
+1525403,Roger McClaen Harvesting,Britton,SD,32,0,3/1/2007,2007
+1652056,"George Mabe, AGER",Danbury,NC,32,0,5/1/2010,2010
+1484148,Elvis Witcher,Rocky Mount,VA,32,0,7/17/2005,2005
+1588636,Altadis Shade Company,Somers,CT,32,0,7/13/2010,2010
+1381588,"Apple Acres, LLC",Lafayette,NY,32,0,1/9/2004,2004
+1364231,Barnes Farming Corporation,Spring Hope,NC,32,0,1/1/2004,2004
+1583721,Gibko Trees and Nursery,Bunkie,LA,33,0,6/17/2008,2008
+1551432,Secor Nursery,Perry,OH,33,0,7/3/2007,2007
+1547318,Monetta Peach Packers,Monetta,SC,33,0,1/7/2009,2009
+1558378,CS Chopping,Mandan,ND,33,0,4/8/2009,2009
+1527683,"Anthony DeMarco & Sons, Inc.",Elbridge,NY,33,0,5/13/2007,2007
+1620377,Coots Farms,Allensville,KY,34,0,7/27/2009,2009
+1622151,"Ryland Enterprises, Inc.",Effie,LA,34,0,7/27/2009,2009
+1421480,Cameron Farms,Sunrise Beach,MO,34,0,11/23/2003,2003
+1675900,Triplet Farms,Lafayette,TN,34,0,12/1/2010,2010
+1618123,G & G Farms,Williamson,NY,35,0,7/9/2009,2009
+1584749,Travis Lambourn,Bowman,ND,35,0,3/1/2009,2009
+1694058,Hermann J. Weimer Vineyard,Dundee,NY,35,0,6/30/2011,2011
+1621262,"McDougall & Sons, Inc.",Wenatchee,WA,36,0,6/7/2009,2009
+1571579,Odom Nursery Company Incorporated,Morrison,TN,36,0,2/27/2008,2008
+1518046,Padgett Pond Road,Monetta,SC,36,0,6/19/2008,2008
+1495542,Cane Creek Farm,Vardaman,MS,36,0,1/1/2007,2007
+314159,New River Tree Co,W.Jefferson,NC,37,0,3/29/1996,1996
+1588054,"Mulnite Farms, Inc.",Broad Brook,CT,37,0,9/6/2008,2008
+1623015,Cecil Tobacco,Owensboro,KY,37,0,8/2/2009,2009
+1444480,Karni Family Farm,Shelbyville,MI,37,0,10/1/2004,2004
+1514789,B & R Harvesting,Collins,GA,37,0,5/15/2006,2006
+1502981,"Torres, Ramiro FLC",Lake Placid,FL,37,0,12/3/2007,2007
+1457627,Brad Minton/Maple Breeze Farms,Hopkinsville,KY,37,0,11/16/2004,2004
+1598251,"Mammoser Farms, Inc.",Eden,NY,38,0,4/1/2009,2009
+1631181,William L. Whitacre Orchards,Cross Junction,VA,38,0,9/20/2009,2009
+1558946,"Emmi & Sons, Inc.",Baldwinsville,NY,38,0,5/10/2009,2009
+1364237,"James E. Lee, Jr.",Moncure,NC,38,0,4/1/2003,2003
+1528918,Landreth Farms,Vardaman,MS,38,0,10/29/2006,2006
+1604068,Sunny South Packing Company,Arcadia,FL,39,0,12/1/2010,2010
+1584895,"Sierra Cascade Nursery, Inc",Susanville,CA,39,0,3/15/2010,2010
+1615310,Sowell Orchards,Palisade,CO,39,0,4/12/2009,2009
+1510037,Lewis Nursery,Cascade,VA,39,0,5/19/2006,2006
+1489393,Daryl Hardwick Farm,Nakina,NC,39,0,1/1/2007,2007
+1409221,Lorenzo Loredo,Marshall,NC,39,0,8/16/2003,2003
+1050980,Bland Farms,Reidsville,GA,39,0,10/1/1988,1988
+1665740,"East Coast Sod, LLC",Woodstown,NJ,39,0,12/11/2010,2010
+1615403,Lanark Farms,Warren,AR,40,0,7/19/2009,2009
+1537950,Huerta Harvesting,Yuma,AZ,40,0,1/8/2009,2009
+1622664,Cahoon Farms,Wolcott,NY,40,0,8/6/2010,2010
+1617287,Coosaw Farms,Fairfax,SC,40,0,5/4/2009,2009
+1563602,Sandyhill Farms,Webster,KY,40,0,2/1/2008,2008
+1555705,Ingalls Honey,Bancroft,IA,40,0,1/10/2009,2009
+1552702,Britt's Garden Acres,Manhattan,KS,40,0,1/1/2008,2008
+1625990,Gisi Pheasant Farms,Ipswich,SD,40,0,3/10/2011,2011
+1545094,Greenbrier Farms Nursery,Chesapeake,VA,40,0,4/27/2009,2009
+1515032,"Zappala Farms, LLC",Cato,NY,40,0,3/1/2008,2008
+1618119,Jeff Bullock Farms,Mount Vernon,KY,41,0,7/28/2009,2009
+1555632,"Fresh Harvest, Inc",Salinas,CA,41,0,3/31/2009,2009
+1554622,"Thies Farm & Greenhouses, Inc.",Saint Louis,MO,41,0,5/8/2009,2009
+1648991,PAUL MICHAEL COMPANY,Lake Village,AR,41,0,3/24/2010,2010
+1521586,Ramon Forestry Service,Clinton,ME,41,0,8/8/2006,2006
+1518045,1314 Trojan Rd Labor Camp,Monetta,SC,41,0,6/19/2008,2008
+1463460,"Sandy's Plants, Inc.",Mechanicsville,VA,41,0,12/4/2004,2004
+1620373,Gary Holman Tobacco,Russellville,KY,42,0,7/19/2009,2009
+1518970,B & M Blueberry Farms,Lumberton,MS,42,0,7/11/2006,2006
+1617377,Elvis Witcher,Rocky Mount,VA,42,0,5/7/2009,2009
+1671998,"White Oak Tobacco, LLC",Scottsville,KY,42,0,4/16/2010,2010
+1531662,Faria Dairy,Willcox,AZ,42,0,11/20/2007,2007
+1495788,Parker Farms,Vardaman,MS,42,0,5/10/2007,2007
+1484758,RTC  Inc.,Adairville,KY,42,0,6/26/2005,2005
+1475799,"Aaron Creek Farms, Inc.",Buffalo Junction,VA,42,0,4/29/2005,2005
+1527017,Corby Brown,Gamaliel,KY,42,0,5/2/2008,2008
+1613442,St. James Winery,Saint James,MO,43,0,4/9/2009,2009
+1641994,Wayne's Nursery,Forest Hill,LA,43,0,2/22/2010,2010
+1667131,Gunnewick Custom Harvesting,Hart,TX,43,0,3/15/2011,2011
+1654219,Kent Braathen,Devils Lake,ND,43,0,5/1/2010,2010
+1575369,"R. Hart Hudson Farms, Inc.",South Hill,VA,44,0,5/28/2008,2008
+1448218,"Nourse Farms, Inc",South Deerfield,MA,44,0,8/3/2004,2004
+1587132,Kenny Thomason,Scott City,KS,44,0,5/1/2009,2009
+1386114,Shear Pleasure,Casper,WY,44,0,2/1/2003,2003
+1517305,Labor Camp 606,Johnston,SC,45,0,6/11/2008,2008
+1489363,"J.R. Frazier & Sons, Inc.",Oneonta,NY,45,0,9/1/2005,2005
+1457904,Nimmer Turf and Tree Farm Inc.,Ridgeland,SC,45,0,1/1/2006,2006
+1568760,Ruiz Harvesting,Okeechobee,FL,46,0,10/1/2009,2009
+1493232,Zamora Harvesting Inc.,La Feria,TX,46,0,9/1/2007,2007
+1474922,"Marin, Pedro FLC",Sebring,FL,46,0,11/1/2006,2006
+1582272,"Hoerner Harvesting, Inc",Bowdle,SD,47,0,3/1/2009,2009
+1576644,Union Harvest,Yuma,AZ,47,0,11/1/2009,2009
+1353556,Lancaster Farms,Suffolk,VA,47,0,5/12/2002,2002
+1632196,Timber Ridge Fruit Farm,Gore,VA,48,0,10/7/2009,2009
+1544805,Katila's Nursery,Painesville,OH,48,0,7/12/2007,2007
+1472549,Woodworth Orchards,Lyndonville,NY,48,0,9/23/2006,2006
+1498267,Stephen Sheffer,Hodgenville,KY,48,0,12/15/2005,2005
+1622147,"Patout Brothers, Inc.",Jeanerette,LA,49,0,7/19/2009,2009
+1619988,Dionisio Produce and Farms,Pueblo,CO,49,0,1/1/2011,2011
+1582103,Dutton Ranch Corporation,Sebastopol,CA,49,0,6/3/2008,2008
+1676105,Allen T Turner,Berry,KY,49,0,4/20/2010,2010
+1584492,"Bluegrass Nursery, Inc.",Shelbyville,KY,50,0,7/24/2008,2008
+1518044,542 Hwy 39 Labor Camp,Monetta,SC,50,0,6/19/2008,2008
+1618093,James Ray Murdock,Murray,KY,50,0,6/4/2009,2009
+1653343,Harton Farms,Cadiz,KY,51,0,5/4/2010,2010
+1643001,Texas Farm,Perryton,TX,51,0,10/3/2011,2011
+1477879,"J. Jesus Moreno Harvesting, Inc.",Arcadia,FL,52,0,12/1/2006,2006
+1662411,John Hudson Farms,Newton Grove,NC,52,0,6/10/2011,2011
+1549570,Canopy Drive LC 101,Johnston,SC,53,0,6/18/2009,2009
+1526773,Zeller and Sons Farms,Herington,KS,53,0,1/1/2008,2008
+1461167,Fann Farms,Salemburg,NC,53,0,1/1/2006,2006
+1409208,Bell Ridge Farm,Carthage,NC,53,0,1/1/2005,2005
+1426868,Doctor's Lawn & Landscape,Stilwell,KS,54,0,3/1/2005,2005
+1656216,"Intergrow Greenhouses, Inc.",Albion,NY,54,0,6/20/2010,2010
+1508068,"Chavez Harvesting, LLC",Yuma,AZ,55,0,11/1/2007,2007
+1581918,Meadow View Farm and Greenhouses,Southwick,MA,56,0,8/23/2009,2009
+1593429,Brian Campbell Farm,Berwick,PA,56,0,10/13/2008,2008
+1655369,"Sedan Floral, Inc",Sedan,KS,56,0,6/20/2010,2010
+1410202,Altendorf Harvesting,Minto,ND,56,0,3/1/2004,2004
+1495546,Baker Farms,Big Creek,MS,57,0,5/6/2007,2007
+1461176,Murray's Nursery,Moss Point,MS,57,0,10/29/2004,2004
+1622155,"Ulysses Gonsoulin & Son, Inc.",New Iberia,LA,58,0,7/20/2009,2009
+1631182,Russell Orchards LC,Clear Brook,VA,58,0,9/9/2009,2009
+1476952,Circle 4 Farms,Milford,UT,58,0,7/1/2005,2005
+1584953,Phillips Farm,Milford,NJ,59,0,2/20/2010,2010
+1430824,"M & A Barnett Trucking, Incorporated",Gem,KS,59,0,6/10/2005,2005
+1620088,"Bluff View Farm, Inc.",Caseyville,IL,59,0,7/1/2009,2009
+1552077,Odom Farms,Austin,AR,60,0,7/19/2007,2007
+1549871,"Carol Paul, FLC",Belle Glade,FL,60,0,6/1/2008,2008
+1558687,"DeBadts, Jay R. & Sons Fruit Farm LLC",Sodus,NY,61,0,9/27/2008,2008
+1625924,"Hines Chopping, LLC",Coolidge,KS,61,0,8/30/2009,2009
+1510018,"Bryant Orchards, Inc.",Fincastle,VA,61,0,5/3/2006,2006
+1458297,"Woodmont Orchards, Inc.",Londonderry,NH,62,0,10/19/2004,2004
+1558697,"Lynn-Ette & Sons, Inc.",Kent,NY,64,0,7/1/2009,2009
+1600339,Dale Lucas' Farm,Dunn,NC,64,0,2/4/2009,2009
+1482812,"James F. Demski Farms, Inc.",Coloma,MI,65,0,3/15/2007,2007
+1524483,Kona Coffee Grounds LLC,Holualoa,HI,66,0,6/23/2008,2008
+1526612,Kemmerer Farms,Berwick,PA,66,0,10/23/2006,2006
+1668264,Fino Farms,Milton,NY,66,0,11/15/2010,2010
+1653352,R & M Tobacco,Hopkinsville,KY,66,0,4/5/2011,2011
+1495789,Topashaw Farms,Vardaman,MS,67,0,3/8/2006,2006
+1373089,Gerten Greenhouses,Inver Grove Heights,MN,67,0,2/15/2004,2004
+1323647,J & R Baker Farms,Norman Park,GA,68,0,3/28/2003,2003
+1469562,Mity Mole Inc,Arcadia,FL,68,0,12/1/2006,2006
+1639592,"Orange Blossom Harvesting, Inc",Arcadia,FL,69,0,11/16/2010,2010
+1493215,DeFisher Fruit Farms,Williamson,NY,69,0,8/20/2007,2007
+1479659,R. Hart Hudson Farms,South Hill,VA,69,0,8/9/2006,2006
+1057861,Maria Barajas,Arcadia,FL,70,0,11/1/1999,1999
+1517767,"Rancho Largo De Rama, LLC (FLC)",Omega,GA,71,0,3/1/2008,2008
+1361311,Voelpel Farms,Newfane,NY,71,0,8/25/2002,2002
+314161,Highland Fraser Firs,Plumtree,NC,73,0,5/1/1996,1996
+1564740,"M & A Barnett Trucking, Incorporated",Grainfield,KS,73,0,12/31/2007,2007
+1558811,Root Brothers Farms,Albion,NY,73,0,1/3/2009,2009
+1540341,"Fonseca, Jesus, FLC",Lake Placid,FL,73,0,11/27/2008,2008
+1642127,"Morales, Nestor - H2AFLC",Arcadia,FL,75,0,12/1/2010,2010
+1622129,"3-D Sugar Farms, Inc.",Maurice,LA,76,0,7/21/2009,2009
+1510260,"Delta Equine Center, LLC",Vinton,LA,77,0,6/5/2007,2007
+1437944,Eubanks Farms,Wilmar,AR,77,0,6/1/2006,2006
+1622137,"Circle A Farms, Inc.",Maurice,LA,77,0,7/20/2009,2009
+1644127,Highbaugh & Turner LLC,Magnolia,KY,78,0,3/7/2010,2010
+1486461,Willowbend Nursery,Perry,OH,78,0,8/5/2006,2006
+1544572,Margarita Cardenas - FLC,Lyons,GA,79,0,4/1/2008,2008
+1618080,M & M Farmers Association,Melber,KY,80,0,6/4/2009,2009
+1542200,Snow Hill Nursery,Shelbyville,KY,80,0,4/22/2007,2007
+1520931,Andrew Tyson,Nashville,NC,80,0,1/1/2008,2008
+1497611,"Wieczorek, John or Pat",Mount Vernon,SD,80,0,3/25/2006,2006
+1527392,Millstream Farms,Dunn,NC,81,0,1/1/2008,2008
+1490550,"Childstock Farms, Inc.",Malone,NY,82,0,9/11/2005,2005
+1614685,Pavero Cold Storage,Highland,NY,83,0,1/1/2010,2010
+1526946,Sage Hill Farms,Zillah,WA,83,0,5/6/2008,2008
+1645372,Phillips  Brothers Farm,Yazoo City,MS,83,0,3/18/2010,2010
+1622154,"Townsend Brothers Farms, Inc.",Bunkie,LA,87,0,6/29/2009,2009
+1585848,Heart Seventeen,Deltaville,VA,87,0,4/1/2009,2009
+1576039,Carolina Farms and Harvesting,Johnston,SC,87,0,2/1/2010,2010
+1622131,"Angelo's Lawn-Scape of Louisiana, Inc.",Baton Rouge,LA,87,0,3/1/2010,2010
+1487367,"DeAnda Bean Walkers and Detasselers, Inc.",Sioux City,IA,87,0,1/1/2007,2007
+1368444,Schemper Harvesting,Holdrege,NE,87,0,1/1/2003,2003
+1533182,Lazy R Farms,Wendell,ID,88,0,2/22/2007,2007
+1652760,Carolina Farms and Harvesting,Johnston,SC,88,0,1/1/2011,2011
+1559734,Chris Lankford,Ripley,TN,89,0,9/29/2008,2008
+1632198,B & W Quality Growers,Martinsburg,WV,89,0,10/5/2009,2009
+1408467,Dixie Belle,Ridge Spring,SC,90,0,4/10/2005,2005
+1643417,"Southeastern Harvesting, Inc",Arcadia,FL,90,0,11/11/2011,2011
+1540754,Lee Purdy,Cave City,KY,90,0,3/27/2007,2007
+1621423,Richard E. Wallace,Drakes Branch,VA,91,0,7/30/2009,2009
+1523485,RB Farms,Cadiz,KY,91,0,8/31/2006,2006
+1559614,Cantu Harvesting,Edinburg,TX,92,0,6/11/2009,2009
+1385048,Kurt Weiss Greenhouses,Center Moriches,NY,93,0,4/2/2003,2003
+1604073,Dasher Harvesting,Glennville,GA,94,0,4/15/2009,2009
+1422522,Schreiber Orchards,Milton,NY,94,0,1/1/2004,2004
+1224190,"Ham's Farm, Inc",Snow Hill,NC,95,0,7/5/2000,2000
+1547171,Northern Christmas Trees and Nursery,Merrillan,WI,98,0,1/1/2008,2008
+1359919,Shore Acres Plant Farm,Theodore,AL,98,0,5/2/2002,2002
+1626098,Highland Gardens,American Fork,UT,100,0,7/30/2009,2009
+1495927,Bill Case Farms,Albany,OR,103,0,8/1/2007,2007
+1305327,Global Horizon Inc.,Los Angeles,CA,104,0,8/8/2003,2003
+1591487,"JRB, L.L.C",Evanston,WY,104,0,8/12/2008,2008
+1612747,EAM Harvesting LLC,Arcadia,FL,105,0,12/4/2009,2009
+1656954,"HB Harvesting, Inc. - FLC",Arcadia,FL,106,0,11/1/2011,2011
+1592683,"Alstede Farms, LLC",Chester,NJ,110,0,4/1/2010,2010
+1590040,Larchmont Farms,Deerfield,NJ,110,0,6/6/2010,2010
+1441247,Phillips Farms,Milford,NJ,110,0,5/26/2006,2006
+1526945,"High Valley Orchards, LLC",Wapato,WA,111,0,5/6/2008,2008
+1356382,New Tree Personnel Services,Raleigh,NC,111,0,4/1/2004,2004
+1503810,A. Oseguera,Salinas,CA,113,0,11/1/2007,2007
+1487190,Larry Trover Produce,Vienna,IL,113,0,6/16/2007,2007
+1656867,"Titan Peach Farms, Inc",Ridge Spring,SC,113,0,12/10/2010,2010
+1532384,"Toto's Picking, Inc.",Homestead,FL,114,0,12/21/2007,2007
+1628997,KAT Nurseries,Olathe,KS,117,0,4/27/2009,2009
+1505087,Unique Farms,Miami,FL,120,0,11/1/2007,2007
+1461940,GTN Employment Agency,Charlotte,NC,120,0,2/8/2006,2006
+1588229,"P & L Harvesting, LLC",Alva,FL,120,0,12/3/2009,2009
+1495474,Pavero Cold Storage,Highland,NY,121,0,1/1/2006,2006
+1563536,Yoakum County Co-op Gin,Plains,TX,122,0,10/1/2009,2009
+1499973,"Global Horizons, Inc.",Los Angeles,CA,122,0,4/19/2007,2007
+1632743,"Strathmeyer Forests, Inc.",Dover,PA,123,0,12/12/2009,2009
+1480689,Olson's Greenhouse Garden,Salem,UT,123,0,8/3/2005,2005
+1592366,Mount Pleasant Winery,Augusta,MO,125,0,12/1/2008,2008
+1633084,Quality Produce LLC,Tifton,GA,125,0,1/1/2010,2010
+1624166,"Bieber Farms Crawfish, Inc.",Mamou,LA,126,0,4/22/2011,2011
+1510034,Historyland Nursery,Warsaw,VA,127,0,5/25/2006,2006
+1531036,Carline Hot Pickers,Miami,FL,128,0,5/4/2008,2008
+1463556,Frank Diehl Farms/ Lee & Diehl Farm,Wimauma,FL,130,0,10/31/2006,2006
+1370311,Aloun Farms,Kapolei,HI,134,0,2/17/2003,2003
+1562436,"REB Cane Creek Farms, Inc.",Vardaman,MS,136,0,3/16/2008,2008
+1662725,HJT Packaging,Midway,TN,138,0,4/9/2012,2012
+1485729,Zirkle,Selah,WA,138,0,7/9/2005,2005
+1627184,Heldt Produce,Ashland,NE,139,0,6/15/2010,2010
+1496262,"Sedan Floral, Inc",Sedan,KS,141,0,11/7/2005,2005
+1662722,Shelton & Sons Farms,Morristown,TN,141,0,5/7/2012,2012
+1449535,Marty Wardlaw,Hermitage,AR,144,0,6/4/2005,2005
+1595608,Mt. Clifton Fruit,Timberville,VA,145,0,9/21/2008,2008
+1651568,Loma Vista Nursery,Ottawa,KS,145,0,4/13/2010,2010
+1614589,Adams Land & Cattle Co.,Broken Bow,NE,148,0,4/14/2009,2009
+1478732,"A. Oseguera Company, Inc.",Salinas,CA,150,0,12/15/2005,2005
+1504121,BC Harvesting,Salinas,CA,155,0,12/1/2007,2007
+257387,North Carolina Growers Association,Vass,NC,156,0,5/1/1995,1995
+1370820,Brent Harrod,Hermitage,AR,168,0,6/13/2004,2004
+1473967,"Global Horizons Manpower, Incorporated",Los Angeles,CA,169,0,1/21/2007,2007
+1580172,Chad Olsen,Hendricks,MN,170,0,5/28/2008,2008
+1506719,Bimbo's Best Produce Inc,Amite,LA,171,0,9/20/2007,2007
+1621726,Talbott's Mountain Gold,Palisade,CO,175,0,7/26/2009,2009
+1448337,Taylor Orchards,Reynolds,GA,181,0,1/4/2006,2006
+1558453,Vinson Farms,Cadiz,KY,185,0,5/15/2008,2008
+1629991,Frank Turner Farms,Utica,KY,191,0,6/26/2009,2009
+1486058,Parker Farms,Oak Grove,VA,194,0,11/18/2005,2005
+1222299,W.B. Contract Swine Production,Armstrong,IA,196,0,5/25/2001,2001
+1559743,R. Zamorano Produce Co.,Edinburg,TX,199,0,7/16/2009,2009
+1189138,"Gracia, Jose FLC",Frostproof,FL,201,0,10/15/2000,2000
+1584538,R. Zamorano Produce (LG Packaging),Edinburg,TX,202,0,2/15/2010,2010
+1519256,Richard and Scott Tyson,Nashville,NC,204,0,1/1/2008,2008
+1584453,"Color Star Growers of Colorado, Inc.",Fort Lupton,CO,210,0,1/23/2009,2009
+1631178,Fruit Hill Orchards,Winchester,VA,214,0,9/20/2009,2009
+1621924,Mandujano Brothers,Coyanosa,TX,234,0,7/19/2010,2010
+1531046,Puroul Picking,Miami,FL,236,0,10/3/2008,2008
+1395650,Romero Harvesting,Okeechobee,FL,248,0,11/1/2004,2004
+1534924,Dunson Harvesting Inc.,Winter Haven,FL,255,0,11/1/2008,2008
+1502690,"Barajas, Hector - FLC",Arcadia,FL,278,0,11/15/2006,2006
+1522239,Aloun Farms Inc,Kapolei,HI,279,0,5/1/2004,2004
+1285150,Hyatt Farms,Lake Wales,FL,316,0,9/30/2001,2001
+1612751,Overlook Harvesting Company LLC,Winter Haven,FL,361,0,12/1/2010,2010
+1469889,Global Horizons Incorporated,Worthington,PA,372,0,4/7/2006,2006
+1517298,Carolina Farms and Harvesting,Johnston,SC,396,0,1/1/2007,2007
+1654550,Overlook Harvesting Company,Winter Haven,FL,401,0,10/24/2011,2011
+1517384,LBJ Farms,Gila Bend,AZ,430,0,2/1/2008,2008
+1424379,VAGA,South Boston,VA,448,0,9/29/2005,2005
+1586862,"Color Star Growers of Colorado, Inc - Main",Fort Lupton,CO,499,0,1/10/2009,2009
+1515262,"Pride's Corner Farms, Inc.",Lebanon,CT,502,0,6/13/2006,2006
+1503788,E C Labor,Calexico,CA,541,0,11/5/2007,2007
+1484934,"S & H Farm Labor, LLC",Parker,AZ,566,0,11/1/2006,2006
+1037025,Empire Farms,Empire,NV,573,0,1/2/1998,1998
+1077835,Parker Farms,Oak Grove,VA,616,0,4/30/1999,1999
+1468741,EAM Harvesting Inc,Arcadia,FL,659,0,11/1/2006,2006
+1633334,Pumpkin Patch Fundraisers,Farmington,NM,766,0,9/9/2011,2011
+1464396,"McClure Farms/West Coast Tomatoes, Inc.",Palmetto,FL,851,0,10/22/2006,2006
+1478771,"Wm. G. Roe and Sons, Inc.",Winter Haven,FL,974,0,9/4/2006,2006
+1512941,"Tanimura & Antle, Inc.",Salinas,CA,1065,0,1/13/2008,2008
+1592544,Western Range Association,Salt Lake City,UT,1408,0,8/22/2008,2008
+1517039,Eurofresh,Willcox,AZ,1410,0,3/3/2008,2008
+1622241,T Bell Detasseling LLC,Lone Tree,IA,1413,0,7/22/2009,2009
+1559021,"Peri  & Sons Farm, Inc.",Yerington,NV,1470,0,1/1/2008,2008
+1405687,"Global Horizons Manpower, Inc.",Los Angeles,CA,1473,0,11/15/2004,2004
+1457967,"Sierra Cascade Nursery, Inc",Susanville,CA,2661,0,9/25/2006,2006
+1605979,"Marshfield Forest Service, Inc",Post Falls,ID,0,1,1/20/2010,2010
+1596081,Community Green Landscaping,Loveland,OH,0,1,10/4/2008,2008
+1572751,Anthony Bull Company,Corinth,MS,0,1,3/13/2009,2009
+1572711,"Alpine Forestry, LLC",Lagrange,GA,0,1,12/17/2009,2009
+1658838,"Texas Land Care, Inc.",Dallas,TX,0,1,6/16/2010,2010
+1651885,Williams Forestry & Associates,Ray,OH,0,1,12/16/2011,2011
+1634190,ATX Environmental Solutions,Austin,TX,0,1,12/22/2009,2009
+1618536,Classic Tejas Construction Inc,Euless,TX,0,1,5/18/2009,2009
+1643145,Cima,Avon,CO,0,1,9/1/2011,2011
+1620294,Lawns Unlimited,New Iberia,LA,0,1,10/12/2009,2009
+1695387,Belvin Seafood,Hayes,VA,0,1,4/21/2011,2011
+1686004,"Keith's Lawn Service of Tierra Verde, Inc.",Saint Petersburg,FL,0,1,3/30/2011,2011
+1601375,"Badger Evergreen Farms I, LLC",Merrill,WI,0,2,1/1/2010,2010
+1580127,"Ponderosa Reforestation, Inc.",Medford,OR,0,2,5/1/2008,2008
+1636056,H & M Landscaping,Newbury,OH,0,2,11/7/2009,2009
+1633244,"GLK Foods, LLC",Bear Creek,WI,0,2,4/1/2011,2011
+1594655,"Great Lakes Kraut Company, LLC",Bear Creek,WI,0,2,4/9/2010,2010
+1625248,Starwood,Myrtle Beach,SC,0,2,5/3/2010,2010
+1584897,Fernandez Events,Kapolei,HI,0,2,8/25/2009,2009
+1576484,"Excel Forestry Services, Inc.",Demopolis,AL,0,2,12/3/2009,2009
+1642351,The Westin Riverfront Resort and Spa,Avon,CO,0,2,1/25/2010,2010
+1599778,"Northwoods Forestry, Inc.",Eleva,WI,0,2,2/7/2009,2009
+1590940,McCallisters,Painesville,OH,0,2,8/24/2008,2008
+1660586,Roark Landscaping Corporation,Tulsa,OK,0,2,4/1/2011,2011
+1657655,Superior Lawn Care,New Stanton,PA,0,2,6/13/2010,2010
+1582762,Silvis Group,Mount Pleasant,PA,0,2,1/3/2009,2009
+1592398,Vanderbilt Landscaping LLC,Smyrna,TN,0,3,11/20/2009,2009
+1588320,Felix Palencia Forest Service,Pittsfield,ME,0,3,5/15/2010,2010
+1560380,Emerald Coast Hospitality Service Inc.,Tampa,FL,0,3,4/1/2008,2008
+1642341,Christie Lodge,Avon,CO,0,3,11/15/2010,2010
+1589381,"Top Tier Turf and Ornamental, LLC",Baton Rouge,LA,0,3,9/5/2008,2008
+1595709,Fenway Golf Club,Scarsdale,NY,0,4,11/27/2009,2009
+1606482,South Seas Island Resort,Captiva,FL,0,4,3/19/2009,2009
+1686872,Starwood of Myrtle Beach,Myrtle Beach,SC,0,4,3/12/2011,2011
+1632190,Jim Dunphy's Landscaping,Willingboro,NJ,0,5,1/1/2010,2010
+1582704,MP Forestry,Central Point,OR,0,5,12/1/2008,2008
+1693053,Bob's Tree Preservation Service,Scott,LA,0,5,6/21/2011,2011
+1622895,America's Best Value Inn,Rapid City,SD,0,6,7/2/2009,2009
+1622901,Hampton Inn of Rapid City,Rapid City,SD,0,6,7/8/2009,2009
+1619918,"Grass Rangers, LLC",Saint Amant,LA,0,6,3/29/2010,2010
+1583915,Hampton Inn,Sheridan,WY,0,6,10/1/2009,2009
+1630692,"Newport Hotel Services, Inc. d/b/a",Newport,RI,0,6,10/2/2009,2009
+1601132,Gorges Grant Hotel,Ogunquit,ME,0,6,5/1/2009,2009
+1673315,Riceland Crawfish,Eunice,LA,0,6,10/30/2010,2010
+1642346,"East West Resorts, LLC",Avon,CO,0,7,10/1/2009,2009
+1626668,"Louisiana Blue Crab, LLC",Abbeville,LA,0,7,3/30/2010,2010
+1607766,Green Turf Incorporated,Jones,OK,0,7,6/15/2009,2009
+1610682,Feliciana Seafood Market and Deli,Saint Francisville,LA,0,9,5/4/2009,2009
+1619679,GEM Interiors,Milford,OH,0,9,6/5/2009,2009
+1577300,Mainscape Corp,Fishers,IN,0,10,7/4/2009,2009
+1622887,Mount Rushmore National Memorial,Keystone,SD,0,11,7/6/2009,2009
+1622360,Steel City Landscaping,Pittsburgh,PA,0,11,8/1/2009,2009
+1594586,Golden Maintenance,Orem,UT,0,12,10/13/2008,2008
+1571925,Tyler Forestry,Buena Vista,GA,0,13,9/1/2009,2009
+1673070,"Yankee Canal Seafood, Inc",Golden Meadow,LA,0,13,5/17/2011,2011
+1573292,Forestree Network Services (FLC),Roanoke,AL,0,14,10/1/2009,2009
+1626200,Angelo's Lawn-Scape of Louisiana,Baton Rouge,LA,0,14,9/8/2009,2009
+1665360,Kuppek Landscaping,Pennington,NJ,0,15,4/1/2012,2012
+1532503,American Lawn Brothers,Sterling,VA,0,20,4/1/2010,2010
+1582818,Omni Mt. Washington Resort,Bretton Woods,NH,0,21,12/12/2009,2009
+1642350,Park Hyatt Beaver Creek Resort and Spa,Avon,CO,0,23,12/1/2009,2009
+1606439,Vail Marriott Mountain Resort & Spa,Vail,CO,0,28,1/28/2009,2009
+1622899,Mount Rushmore KOA Palmer Gulch,Hill City,SD,0,29,7/2/2009,2009
+1584182,"ISS Grounds Control, Inc.",SAN ANTONIO,TX,0,34,3/1/2010,2010
+1583430,Mariani Landscaping,Lake Bluff,IL,0,39,4/1/2010,2010
+1622902,Radisson Hotel,Rapid City,SD,0,40,4/1/2009,2009
+1591382,Champlain Stone,Warrensburg,NY,0,57,10/15/2009,2009
+1637578,GEM Interiors,Milford,OH,0,57,6/1/2009,2009
+1620475,"Harvest Time Seafood, Inc.",Abbeville,LA,0,61,6/3/2009,2009
+1663047,Narciso Perez dba Perez Forestry,Huttig,AR,0,76,7/4/2012,2012
+1615541,Popsy Pops,Somerdale,NJ,0,86,2/1/2010,2010
+1658923,CJ's Seafood,Breaux Bridge,LA,0,91,6/13/2010,2010
+1587882,Custer State Park Resort,Custer,SD,0,139,4/1/2010,2010

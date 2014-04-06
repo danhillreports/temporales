@@ -35,6 +35,14 @@
     font-style: italic;
   }
 
+  img.chart {
+    display: block;
+    width: 700px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .feature-text {
     font-family: Georgia;
   }
@@ -101,6 +109,9 @@
     .nav{font-size: 0.7em; width: 450px;}
     li{padding:0px 6px;}
   }
+  @media all and (max-width: 700px) {
+    img.chart{width:100%; height:auto;}
+  }
   @media all and (max-width: 430px) {
     .nav{font-size:0.5em;}
     .panel{font-size:1.1em;}
@@ -119,7 +130,7 @@
     <div class="nav">
       <ul>
         <li><a href="#visas">Visas temporales</a></li>
-        <li><a href="#accidentes">Accidentes</a></li>
+        <li><a href="#violar">Violaciones</a></li>
         <li><a href="#pagar">Robo de Salario</a></li>
         <li><a href="#fin">M&aacute;s recursos</a></li>
       </ul>
@@ -200,17 +211,18 @@
 <hr>
   <section>
     <div class="container-fluid">
-      <a name="accidentes"></a>
+      <a name="violar"></a>
 
       <div class="row col-xs-12">
-        <h1>Accidentes</h1>
+        <h1>Violaciones</h1>
       </div>
 
-      <div class="row col-xs-12 poppin">
+      <div class="row col-xs-12">
         <img src="img/crab.jpg" class="photo-container"/>
         <p class="feature-text">
           En Estados Unidos existe la obligaci&oacute;n, por parte de los empleadores, de entregar un recibo a los trabajadores en los que se registran las horas que han trabajado, este registro en la realidad no es otorgado y, por el contrario los trabajadores son despojados de los ingresos que les corresponder&iacute;an por el tiempo y la actividad que realizan.
         </p>
+        <img src="img/chart.png" class="chart"/>
       </div>
 
     </div>
