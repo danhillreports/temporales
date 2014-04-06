@@ -6,4 +6,5 @@ Un proyecto de [Migrahack DF](http://justicejournalism.org/es/events/ciudad-de-m
 
 Fuentes de datos
 -------------
-[U.S. Dept. of Labor Wage and Hour Compliance Action Data](http://ogesdw.dol.gov/views/data_catalogs.php)
+- [U.S. Dept. of Labor Wage and Hour Compliance Action Data](http://ogesdw.dol.gov/views/data_catalogs.php)
+- [Proyecto de Derechos Económicos Sociales y Culturales A.C.](http://www.prodesc.org.mx/?cat=36)
