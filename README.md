@@ -1,4 +1,4 @@
-Trabajadores Temporales
+[Trabajadores Temporales](http://danhillreports.github.io/temporales/)
 ==========
 
 Una mezcla de las experiencias de trabajadores de México y los datos sobre la aplicación de leyes que gobiernan el trabajo temporal en los Estados Unidos de América. Periodistas de EEUU colaboran con miembros de la Coalicion de Trabajadoras y Trabajadores Temporales Sinaloenses para analizar datos y aggregar testimonios de trabajadores temporales. Hay más cosas para hacer con este proyecto.
